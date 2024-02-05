@@ -1,0 +1,6 @@
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C04 Clear Conditions\bin\Debug\W01._1.C04_Clear_Conditions.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C04 Clear Conditions\bin\Debug\W01._1.C04_Clear_Conditions.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C04 Clear Conditions\obj\Debug\W01.1.C04 Clear Conditions.csproj.AssemblyReference.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C04 Clear Conditions\obj\Debug\W01.1.C04 Clear Conditions.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C04 Clear Conditions\obj\Debug\W01._1.C04_Clear_Conditions.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C04 Clear Conditions\obj\Debug\W01._1.C04_Clear_Conditions.pdb

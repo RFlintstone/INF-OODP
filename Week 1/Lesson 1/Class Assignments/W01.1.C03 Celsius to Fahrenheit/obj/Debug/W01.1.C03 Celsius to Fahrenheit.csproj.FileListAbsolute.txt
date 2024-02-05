@@ -1,0 +1,6 @@
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C03 Celsius to Fahrenheit\bin\Debug\W01._1.C03_Celsius_to_Fahrenheit.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C03 Celsius to Fahrenheit\bin\Debug\W01._1.C03_Celsius_to_Fahrenheit.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C03 Celsius to Fahrenheit\obj\Debug\W01.1.C03 Celsius to Fahrenheit.csproj.AssemblyReference.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C03 Celsius to Fahrenheit\obj\Debug\W01.1.C03 Celsius to Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C03 Celsius to Fahrenheit\obj\Debug\W01._1.C03_Celsius_to_Fahrenheit.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C03 Celsius to Fahrenheit\obj\Debug\W01._1.C03_Celsius_to_Fahrenheit.pdb

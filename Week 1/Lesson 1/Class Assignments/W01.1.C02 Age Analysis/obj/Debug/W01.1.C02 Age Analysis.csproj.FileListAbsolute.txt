@@ -1,0 +1,6 @@
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C02 Age Analysis\bin\Debug\W01._1.C02_Age_Analysis.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C02 Age Analysis\bin\Debug\W01._1.C02_Age_Analysis.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C02 Age Analysis\obj\Debug\W01.1.C02 Age Analysis.csproj.AssemblyReference.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C02 Age Analysis\obj\Debug\W01.1.C02 Age Analysis.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C02 Age Analysis\obj\Debug\W01._1.C02_Age_Analysis.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C02 Age Analysis\obj\Debug\W01._1.C02_Age_Analysis.pdb

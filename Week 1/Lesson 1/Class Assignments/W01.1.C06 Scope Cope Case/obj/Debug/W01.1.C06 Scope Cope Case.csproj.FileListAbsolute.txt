@@ -1,0 +1,6 @@
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C06 Scope Cope Case\obj\Debug\W01.1.C06 Scope Cope Case.csproj.AssemblyReference.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C06 Scope Cope Case\obj\Debug\W01.1.C06 Scope Cope Case.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C06 Scope Cope Case\bin\Debug\W01._1.C06_Scope_Cope_Case.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C06 Scope Cope Case\bin\Debug\W01._1.C06_Scope_Cope_Case.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C06 Scope Cope Case\obj\Debug\W01._1.C06_Scope_Cope_Case.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C06 Scope Cope Case\obj\Debug\W01._1.C06_Scope_Cope_Case.pdb

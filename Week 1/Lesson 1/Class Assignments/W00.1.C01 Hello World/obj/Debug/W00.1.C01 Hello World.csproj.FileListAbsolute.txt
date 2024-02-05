@@ -1,0 +1,12 @@
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W00.1.C01 Hello World\bin\Debug\W00._1.C01_Hello_World.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W00.1.C01 Hello World\bin\Debug\W00._1.C01_Hello_World.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W00.1.C01 Hello World\obj\Debug\W00.1.C01 Hello World.csproj.AssemblyReference.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W00.1.C01 Hello World\obj\Debug\W00.1.C01 Hello World.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W00.1.C01 Hello World\obj\Debug\W00._1.C01_Hello_World.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W00.1.C01 Hello World\obj\Debug\W00._1.C01_Hello_World.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Class Assignments\W00.1.C01 Hello World\bin\Debug\W00._1.C01_Hello_World.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Class Assignments\W00.1.C01 Hello World\bin\Debug\W00._1.C01_Hello_World.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Class Assignments\W00.1.C01 Hello World\obj\Debug\W00.1.C01 Hello World.csproj.AssemblyReference.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Class Assignments\W00.1.C01 Hello World\obj\Debug\W00.1.C01 Hello World.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Class Assignments\W00.1.C01 Hello World\obj\Debug\W00._1.C01_Hello_World.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Class Assignments\W00.1.C01 Hello World\obj\Debug\W00._1.C01_Hello_World.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Homework Assignments\W01.1.H01 Seconds To Spare\bin\Debug\W01._1.H01_Seconds_To_Spare.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Homework Assignments\W01.1.H01 Seconds To Spare\bin\Debug\W01._1.H01_Seconds_To_Spare.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Homework Assignments\W01.1.H01 Seconds To Spare\obj\Debug\W01.1.H01 Seconds To Spare.csproj.AssemblyReference.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Homework Assignments\W01.1.H01 Seconds To Spare\obj\Debug\W01.1.H01 Seconds To Spare.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Homework Assignments\W01.1.H01 Seconds To Spare\obj\Debug\W01._1.H01_Seconds_To_Spare.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Homework Assignments\W01.1.H01 Seconds To Spare\obj\Debug\W01._1.H01_Seconds_To_Spare.pdb

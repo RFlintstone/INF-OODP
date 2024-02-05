@@ -1,0 +1,6 @@
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Homework Assignments\W01.1.H02 Fix syntax and logical errors\bin\Debug\W01._1.H02_Fix_syntax_and_logical_errors.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Homework Assignments\W01.1.H02 Fix syntax and logical errors\bin\Debug\W01._1.H02_Fix_syntax_and_logical_errors.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Homework Assignments\W01.1.H02 Fix syntax and logical errors\obj\Debug\W01.1.H02 Fix syntax and logical errors.csproj.AssemblyReference.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Homework Assignments\W01.1.H02 Fix syntax and logical errors\obj\Debug\W01.1.H02 Fix syntax and logical errors.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Homework Assignments\W01.1.H02 Fix syntax and logical errors\obj\Debug\W01._1.H02_Fix_syntax_and_logical_errors.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Homework Assignments\W01.1.H02 Fix syntax and logical errors\obj\Debug\W01._1.H02_Fix_syntax_and_logical_errors.pdb

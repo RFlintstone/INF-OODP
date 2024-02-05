@@ -1,0 +1,6 @@
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Homework Assignments\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Homework Assignments\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Homework Assignments\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.AssemblyReference.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Homework Assignments\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Homework Assignments\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Homework Assignments\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

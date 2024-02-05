@@ -1,0 +1,6 @@
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C05 Water State Watching\bin\Debug\W01._1.C05_Water_State_Watching.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C05 Water State Watching\bin\Debug\W01._1.C05_Water_State_Watching.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C05 Water State Watching\obj\Debug\W01.1.C05 Water State Watching.csproj.AssemblyReference.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C05 Water State Watching\obj\Debug\W01.1.C05 Water State Watching.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C05 Water State Watching\obj\Debug\W01._1.C05_Water_State_Watching.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C05 Water State Watching\obj\Debug\W01._1.C05_Water_State_Watching.pdb

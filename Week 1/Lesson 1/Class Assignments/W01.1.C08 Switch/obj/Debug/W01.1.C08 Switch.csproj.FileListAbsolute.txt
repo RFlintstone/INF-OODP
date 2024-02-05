@@ -1,0 +1,6 @@
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C08 Switch\bin\Debug\W01._1.C08_Switch.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C08 Switch\bin\Debug\W01._1.C08_Switch.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C08 Switch\obj\Debug\W01.1.C08 Switch.csproj.AssemblyReference.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C08 Switch\obj\Debug\W01.1.C08 Switch.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C08 Switch\obj\Debug\W01._1.C08_Switch.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C08 Switch\obj\Debug\W01._1.C08_Switch.pdb

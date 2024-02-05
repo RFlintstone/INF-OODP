@@ -1,0 +1,6 @@
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C07 Lengthy Case of Lingo\bin\Debug\W01._1.C07_Lengthy_Case_of_Lingo.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C07 Lengthy Case of Lingo\bin\Debug\W01._1.C07_Lengthy_Case_of_Lingo.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C07 Lengthy Case of Lingo\obj\Debug\W01.1.C07 Lengthy Case of Lingo.csproj.AssemblyReference.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C07 Lengthy Case of Lingo\obj\Debug\W01.1.C07 Lengthy Case of Lingo.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C07 Lengthy Case of Lingo\obj\Debug\W01._1.C07_Lengthy_Case_of_Lingo.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C07 Lengthy Case of Lingo\obj\Debug\W01._1.C07_Lengthy_Case_of_Lingo.pdb

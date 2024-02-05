@@ -1,0 +1,6 @@
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C01 Hello User\bin\Debug\W01._1.C01_Hello_User.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C01 Hello User\bin\Debug\W01._1.C01_Hello_User.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C01 Hello User\obj\Debug\W01.1.C01 Hello User.csproj.AssemblyReference.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C01 Hello User\obj\Debug\W01.1.C01 Hello User.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C01 Hello User\obj\Debug\W01._1.C01_Hello_User.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C01 Hello User\obj\Debug\W01._1.C01_Hello_User.pdb

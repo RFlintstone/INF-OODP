@@ -1,0 +1,6 @@
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Homework Assignments\W01.1.H03 Low-key Lesson\bin\Debug\W01._1.H03_Low_key_Lesson.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Homework Assignments\W01.1.H03 Low-key Lesson\bin\Debug\W01._1.H03_Low_key_Lesson.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Homework Assignments\W01.1.H03 Low-key Lesson\obj\Debug\W01.1.H03 Low-key Lesson.csproj.AssemblyReference.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Homework Assignments\W01.1.H03 Low-key Lesson\obj\Debug\W01.1.H03 Low-key Lesson.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Homework Assignments\W01.1.H03 Low-key Lesson\obj\Debug\W01._1.H03_Low_key_Lesson.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Homework Assignments\W01.1.H03 Low-key Lesson\obj\Debug\W01._1.H03_Low_key_Lesson.pdb

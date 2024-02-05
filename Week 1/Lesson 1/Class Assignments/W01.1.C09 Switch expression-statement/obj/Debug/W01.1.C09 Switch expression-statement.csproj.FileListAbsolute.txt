@@ -1,0 +1,6 @@
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C09 Switch expression-statement\bin\Debug\W01._1.C09_Switch_expression_statement.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C09 Switch expression-statement\bin\Debug\W01._1.C09_Switch_expression_statement.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C09 Switch expression-statement\obj\Debug\W01.1.C09 Switch expression-statement.csproj.AssemblyReference.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C09 Switch expression-statement\obj\Debug\W01.1.C09 Switch expression-statement.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C09 Switch expression-statement\obj\Debug\W01._1.C09_Switch_expression_statement.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\W01.1.C09 Switch expression-statement\obj\Debug\W01._1.C09_Switch_expression_statement.pdb
