@@ -1,0 +1,6 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H09 Dice sum frequencies\bin\Debug\W01._2.H09_Dice_sum_frequencies.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H09 Dice sum frequencies\bin\Debug\W01._2.H09_Dice_sum_frequencies.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H09 Dice sum frequencies\obj\Debug\W01.2.H09 Dice sum frequencies.csproj.AssemblyReference.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H09 Dice sum frequencies\obj\Debug\W01.2.H09 Dice sum frequencies.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H09 Dice sum frequencies\obj\Debug\W01._2.H09_Dice_sum_frequencies.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H09 Dice sum frequencies\obj\Debug\W01._2.H09_Dice_sum_frequencies.pdb

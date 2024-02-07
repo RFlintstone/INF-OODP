@@ -1,0 +1,14 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H04 FizzBuzz\bin\Debug\net7.0\W01.2.H04 FizzBuzz.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H04 FizzBuzz\bin\Debug\net7.0\W01.2.H04 FizzBuzz.deps.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H04 FizzBuzz\bin\Debug\net7.0\W01.2.H04 FizzBuzz.runtimeconfig.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H04 FizzBuzz\bin\Debug\net7.0\W01.2.H04 FizzBuzz.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H04 FizzBuzz\bin\Debug\net7.0\W01.2.H04 FizzBuzz.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H04 FizzBuzz\obj\Debug\net7.0\W01.2.H04 FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H04 FizzBuzz\obj\Debug\net7.0\W01.2.H04 FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H04 FizzBuzz\obj\Debug\net7.0\W01.2.H04 FizzBuzz.AssemblyInfo.cs
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H04 FizzBuzz\obj\Debug\net7.0\W01.2.H04 FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H04 FizzBuzz\obj\Debug\net7.0\W01.2.H04 FizzBuzz.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H04 FizzBuzz\obj\Debug\net7.0\refint\W01.2.H04 FizzBuzz.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H04 FizzBuzz\obj\Debug\net7.0\W01.2.H04 FizzBuzz.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H04 FizzBuzz\obj\Debug\net7.0\W01.2.H04 FizzBuzz.genruntimeconfig.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H04 FizzBuzz\obj\Debug\net7.0\ref\W01.2.H04 FizzBuzz.dll

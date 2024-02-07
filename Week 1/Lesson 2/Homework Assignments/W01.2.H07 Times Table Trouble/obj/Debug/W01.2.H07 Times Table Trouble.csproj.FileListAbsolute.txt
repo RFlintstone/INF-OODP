@@ -1,0 +1,6 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H07 Times Table Trouble\bin\Debug\W01._2.H07_Times_Table_Trouble.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H07 Times Table Trouble\bin\Debug\W01._2.H07_Times_Table_Trouble.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H07 Times Table Trouble\obj\Debug\W01.2.H07 Times Table Trouble.csproj.AssemblyReference.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H07 Times Table Trouble\obj\Debug\W01.2.H07 Times Table Trouble.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H07 Times Table Trouble\obj\Debug\W01._2.H07_Times_Table_Trouble.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H07 Times Table Trouble\obj\Debug\W01._2.H07_Times_Table_Trouble.pdb

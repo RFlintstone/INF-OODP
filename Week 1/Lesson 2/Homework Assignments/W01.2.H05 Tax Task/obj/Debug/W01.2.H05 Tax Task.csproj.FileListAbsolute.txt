@@ -1,0 +1,6 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H05 Tax Task\bin\Debug\W01._2.H05_Tax_Task.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H05 Tax Task\bin\Debug\W01._2.H05_Tax_Task.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H05 Tax Task\obj\Debug\W01.2.H05 Tax Task.csproj.AssemblyReference.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H05 Tax Task\obj\Debug\W01.2.H05 Tax Task.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H05 Tax Task\obj\Debug\W01._2.H05_Tax_Task.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H05 Tax Task\obj\Debug\W01._2.H05_Tax_Task.pdb

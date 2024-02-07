@@ -1,0 +1,14 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H02 Origami Fortune Teller\bin\Debug\net7.0\W01.2.H02 Origami Fortune Teller.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H02 Origami Fortune Teller\bin\Debug\net7.0\W01.2.H02 Origami Fortune Teller.deps.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H02 Origami Fortune Teller\bin\Debug\net7.0\W01.2.H02 Origami Fortune Teller.runtimeconfig.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H02 Origami Fortune Teller\bin\Debug\net7.0\W01.2.H02 Origami Fortune Teller.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H02 Origami Fortune Teller\bin\Debug\net7.0\W01.2.H02 Origami Fortune Teller.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H02 Origami Fortune Teller\obj\Debug\net7.0\W01.2.H02 Origami Fortune Teller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H02 Origami Fortune Teller\obj\Debug\net7.0\W01.2.H02 Origami Fortune Teller.AssemblyInfoInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H02 Origami Fortune Teller\obj\Debug\net7.0\W01.2.H02 Origami Fortune Teller.AssemblyInfo.cs
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H02 Origami Fortune Teller\obj\Debug\net7.0\W01.2.H02 Origami Fortune Teller.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H02 Origami Fortune Teller\obj\Debug\net7.0\W01.2.H02 Origami Fortune Teller.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H02 Origami Fortune Teller\obj\Debug\net7.0\refint\W01.2.H02 Origami Fortune Teller.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H02 Origami Fortune Teller\obj\Debug\net7.0\W01.2.H02 Origami Fortune Teller.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H02 Origami Fortune Teller\obj\Debug\net7.0\W01.2.H02 Origami Fortune Teller.genruntimeconfig.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Homework Assignments\W01.2.H02 Origami Fortune Teller\obj\Debug\net7.0\ref\W01.2.H02 Origami Fortune Teller.dll

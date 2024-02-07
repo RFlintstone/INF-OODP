@@ -1,0 +1,50 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
+class Program
+{
+    private static double Balance { get; set; }
+    private static double EndBalance { get; set; }
+
+    private static int years { get; } = 5;
+    private static double Interest { get; } = 0.05;
+    private static int TaxFreeAmount { get; } = 50000;
+    private static List<double> TaxScale { get; } = new List<double>() { 1.5, 3 };
+    private static List<double> TaxScaleAmount { get; set; } = new List<double>() { 50000, 100000 };
+
+    public static void Main()
+    {
+        Console.WriteLine("Set Start Balance:");
+        Balance = Convert.ToDouble(Console.ReadLine());
+
+        EndBalance = CalcTax();
+        Console.WriteLine($"Balance after {years} years: {EndBalance}");
+    }
+
+    private static double CalcTax()
+    {
+        double balanceWithInterest = Balance;
+        TaxScaleAmount.Reverse();
+        TaxScale.Reverse();
+        
+        for (int y = 0; y < years; y++)
+        {
+            balanceWithInterest *= (1 + Interest);
+            Console.WriteLine("Interest:" + balanceWithInterest);
+
+            
+            for (int i = 0; i < TaxScaleAmount.Count; i++)
+            {
+                if (balanceWithInterest >= TaxScaleAmount.ToArray()[i])
+                {
+                    balanceWithInterest *= (1 - (TaxScale[i] / 100));
+                    Console.WriteLine("Tax: " + balanceWithInterest);
+                    break;
+                }
+            }
+        }
+
+        return balanceWithInterest;
+    }
+}
