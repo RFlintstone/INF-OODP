@@ -1,0 +1,6 @@
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Homework Assignments\W01.1.H06 Bearing Squaring\bin\Debug\W01._1.H06_Bearing_Squaring.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Homework Assignments\W01.1.H06 Bearing Squaring\bin\Debug\W01._1.H06_Bearing_Squaring.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Homework Assignments\W01.1.H06 Bearing Squaring\obj\Debug\W01.1.H06 Bearing Squaring.csproj.AssemblyReference.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Homework Assignments\W01.1.H06 Bearing Squaring\obj\Debug\W01.1.H06 Bearing Squaring.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Homework Assignments\W01.1.H06 Bearing Squaring\obj\Debug\W01._1.H06_Bearing_Squaring.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 1\Lesson 1\Homework Assignments\W01.1.H06 Bearing Squaring\obj\Debug\W01._1.H06_Bearing_Squaring.pdb
