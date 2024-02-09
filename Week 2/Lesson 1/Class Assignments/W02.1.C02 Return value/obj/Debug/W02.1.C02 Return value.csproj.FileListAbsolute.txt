@@ -1,0 +1,6 @@
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 2\Lesson 1\Class Assignments\W02.1.C02 Return value\bin\Debug\W02._1.C02_Return_value.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 2\Lesson 1\Class Assignments\W02.1.C02 Return value\bin\Debug\W02._1.C02_Return_value.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 2\Lesson 1\Class Assignments\W02.1.C02 Return value\obj\Debug\W02.1.C02 Return value.csproj.AssemblyReference.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 2\Lesson 1\Class Assignments\W02.1.C02 Return value\obj\Debug\W02.1.C02 Return value.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 2\Lesson 1\Class Assignments\W02.1.C02 Return value\obj\Debug\W02._1.C02_Return_value.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 2\Lesson 1\Class Assignments\W02.1.C02 Return value\obj\Debug\W02._1.C02_Return_value.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 2\Lesson 1\Class Assignments\W02.1.C06 Fields and constructor\obj\Debug\W02.1.C06 Fields and constructor.csproj.AssemblyReference.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 2\Lesson 1\Class Assignments\W02.1.C06 Fields and constructor\obj\Debug\W02.1.C06 Fields and constructor.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 2\Lesson 1\Class Assignments\W02.1.C06 Fields and constructor\bin\Debug\W02._1.C06_Fields_and_constructor.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 2\Lesson 1\Class Assignments\W02.1.C06 Fields and constructor\bin\Debug\W02._1.C06_Fields_and_constructor.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 2\Lesson 1\Class Assignments\W02.1.C06 Fields and constructor\obj\Debug\W02._1.C06_Fields_and_constructor.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 2\Lesson 1\Class Assignments\W02.1.C06 Fields and constructor\obj\Debug\W02._1.C06_Fields_and_constructor.pdb

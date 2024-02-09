@@ -1,0 +1,2 @@
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 2\Lesson 1\Class Assignments\W02.1.C08 Fix the class 2\obj\Debug\W02.1.C08 Fix the class 2.csproj.AssemblyReference.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 2\Lesson 1\Class Assignments\W02.1.C08 Fix the class 2\obj\Debug\W02.1.C08 Fix the class 2.csproj.CoreCompileInputs.cache

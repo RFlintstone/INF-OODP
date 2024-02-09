@@ -1,0 +1,6 @@
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 2\Lesson 1\Class Assignments\W02.1.C01 Void\bin\Debug\W02._1.C01_Void.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 2\Lesson 1\Class Assignments\W02.1.C01 Void\bin\Debug\W02._1.C01_Void.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 2\Lesson 1\Class Assignments\W02.1.C01 Void\obj\Debug\W02.1.C01 Void.csproj.AssemblyReference.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 2\Lesson 1\Class Assignments\W02.1.C01 Void\obj\Debug\W02.1.C01 Void.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 2\Lesson 1\Class Assignments\W02.1.C01 Void\obj\Debug\W02._1.C01_Void.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 2\Lesson 1\Class Assignments\W02.1.C01 Void\obj\Debug\W02._1.C01_Void.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 2\Lesson 1\Class Assignments\W02.1.C04 Fix the methods 1\obj\Debug\W02.1.C04 Fix the methods 1.csproj.AssemblyReference.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 2\Lesson 1\Class Assignments\W02.1.C04 Fix the methods 1\obj\Debug\W02.1.C04 Fix the methods 1.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 2\Lesson 1\Class Assignments\W02.1.C04 Fix the methods 1\bin\Debug\W02._1.C04_Fix_the_methods_1.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 2\Lesson 1\Class Assignments\W02.1.C04 Fix the methods 1\bin\Debug\W02._1.C04_Fix_the_methods_1.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 2\Lesson 1\Class Assignments\W02.1.C04 Fix the methods 1\obj\Debug\W02._1.C04_Fix_the_methods_1.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 2\Lesson 1\Class Assignments\W02.1.C04 Fix the methods 1\obj\Debug\W02._1.C04_Fix_the_methods_1.pdb
