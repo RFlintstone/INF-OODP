@@ -1,0 +1,14 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C07 Dicey simulation\bin\Debug\net7.0\W01.2.C07 Dicey simulation.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C07 Dicey simulation\bin\Debug\net7.0\W01.2.C07 Dicey simulation.deps.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C07 Dicey simulation\bin\Debug\net7.0\W01.2.C07 Dicey simulation.runtimeconfig.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C07 Dicey simulation\bin\Debug\net7.0\W01.2.C07 Dicey simulation.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C07 Dicey simulation\bin\Debug\net7.0\W01.2.C07 Dicey simulation.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C07 Dicey simulation\obj\Debug\net7.0\W01.2.C07 Dicey simulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C07 Dicey simulation\obj\Debug\net7.0\W01.2.C07 Dicey simulation.AssemblyInfoInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C07 Dicey simulation\obj\Debug\net7.0\W01.2.C07 Dicey simulation.AssemblyInfo.cs
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C07 Dicey simulation\obj\Debug\net7.0\W01.2.C07 Dicey simulation.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C07 Dicey simulation\obj\Debug\net7.0\W01.2.C07 Dicey simulation.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C07 Dicey simulation\obj\Debug\net7.0\refint\W01.2.C07 Dicey simulation.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C07 Dicey simulation\obj\Debug\net7.0\W01.2.C07 Dicey simulation.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C07 Dicey simulation\obj\Debug\net7.0\W01.2.C07 Dicey simulation.genruntimeconfig.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C07 Dicey simulation\obj\Debug\net7.0\ref\W01.2.C07 Dicey simulation.dll

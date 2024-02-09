@@ -1,0 +1,14 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C05 List and indices\bin\Debug\net7.0\W01.2.C05 List and indices.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C05 List and indices\bin\Debug\net7.0\W01.2.C05 List and indices.deps.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C05 List and indices\bin\Debug\net7.0\W01.2.C05 List and indices.runtimeconfig.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C05 List and indices\bin\Debug\net7.0\W01.2.C05 List and indices.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C05 List and indices\bin\Debug\net7.0\W01.2.C05 List and indices.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C05 List and indices\obj\Debug\net7.0\W01.2.C05 List and indices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C05 List and indices\obj\Debug\net7.0\W01.2.C05 List and indices.AssemblyInfoInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C05 List and indices\obj\Debug\net7.0\W01.2.C05 List and indices.AssemblyInfo.cs
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C05 List and indices\obj\Debug\net7.0\W01.2.C05 List and indices.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C05 List and indices\obj\Debug\net7.0\W01.2.C05 List and indices.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C05 List and indices\obj\Debug\net7.0\refint\W01.2.C05 List and indices.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C05 List and indices\obj\Debug\net7.0\W01.2.C05 List and indices.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C05 List and indices\obj\Debug\net7.0\W01.2.C05 List and indices.genruntimeconfig.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C05 List and indices\obj\Debug\net7.0\ref\W01.2.C05 List and indices.dll

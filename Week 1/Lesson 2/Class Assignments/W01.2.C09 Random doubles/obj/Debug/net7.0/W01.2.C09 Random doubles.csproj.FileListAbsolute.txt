@@ -1,0 +1,14 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C09 Random doubles\bin\Debug\net7.0\W01.2.C09 Random doubles.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C09 Random doubles\bin\Debug\net7.0\W01.2.C09 Random doubles.deps.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C09 Random doubles\bin\Debug\net7.0\W01.2.C09 Random doubles.runtimeconfig.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C09 Random doubles\bin\Debug\net7.0\W01.2.C09 Random doubles.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C09 Random doubles\bin\Debug\net7.0\W01.2.C09 Random doubles.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C09 Random doubles\obj\Debug\net7.0\W01.2.C09 Random doubles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C09 Random doubles\obj\Debug\net7.0\W01.2.C09 Random doubles.AssemblyInfoInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C09 Random doubles\obj\Debug\net7.0\W01.2.C09 Random doubles.AssemblyInfo.cs
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C09 Random doubles\obj\Debug\net7.0\W01.2.C09 Random doubles.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C09 Random doubles\obj\Debug\net7.0\W01.2.C09 Random doubles.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C09 Random doubles\obj\Debug\net7.0\refint\W01.2.C09 Random doubles.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C09 Random doubles\obj\Debug\net7.0\W01.2.C09 Random doubles.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C09 Random doubles\obj\Debug\net7.0\W01.2.C09 Random doubles.genruntimeconfig.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C09 Random doubles\obj\Debug\net7.0\ref\W01.2.C09 Random doubles.dll

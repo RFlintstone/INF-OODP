@@ -1,0 +1,14 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C08 Fixed dice\bin\Debug\net7.0\W01.2.C08 Fixed dice.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C08 Fixed dice\bin\Debug\net7.0\W01.2.C08 Fixed dice.deps.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C08 Fixed dice\bin\Debug\net7.0\W01.2.C08 Fixed dice.runtimeconfig.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C08 Fixed dice\bin\Debug\net7.0\W01.2.C08 Fixed dice.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C08 Fixed dice\bin\Debug\net7.0\W01.2.C08 Fixed dice.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C08 Fixed dice\obj\Debug\net7.0\W01.2.C08 Fixed dice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C08 Fixed dice\obj\Debug\net7.0\W01.2.C08 Fixed dice.AssemblyInfoInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C08 Fixed dice\obj\Debug\net7.0\W01.2.C08 Fixed dice.AssemblyInfo.cs
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C08 Fixed dice\obj\Debug\net7.0\W01.2.C08 Fixed dice.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C08 Fixed dice\obj\Debug\net7.0\W01.2.C08 Fixed dice.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C08 Fixed dice\obj\Debug\net7.0\refint\W01.2.C08 Fixed dice.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C08 Fixed dice\obj\Debug\net7.0\W01.2.C08 Fixed dice.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C08 Fixed dice\obj\Debug\net7.0\W01.2.C08 Fixed dice.genruntimeconfig.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C08 Fixed dice\obj\Debug\net7.0\ref\W01.2.C08 Fixed dice.dll

@@ -1,0 +1,14 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C04 For with multiple conditions\bin\Debug\net7.0\W01.2.C04 For with multiple conditions.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C04 For with multiple conditions\bin\Debug\net7.0\W01.2.C04 For with multiple conditions.deps.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C04 For with multiple conditions\bin\Debug\net7.0\W01.2.C04 For with multiple conditions.runtimeconfig.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C04 For with multiple conditions\bin\Debug\net7.0\W01.2.C04 For with multiple conditions.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C04 For with multiple conditions\bin\Debug\net7.0\W01.2.C04 For with multiple conditions.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C04 For with multiple conditions\obj\Debug\net7.0\W01.2.C04 For with multiple conditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C04 For with multiple conditions\obj\Debug\net7.0\W01.2.C04 For with multiple conditions.AssemblyInfoInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C04 For with multiple conditions\obj\Debug\net7.0\W01.2.C04 For with multiple conditions.AssemblyInfo.cs
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C04 For with multiple conditions\obj\Debug\net7.0\W01.2.C04 For with multiple conditions.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C04 For with multiple conditions\obj\Debug\net7.0\W01.2.C04 For with multiple conditions.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C04 For with multiple conditions\obj\Debug\net7.0\refint\W01.2.C04 For with multiple conditions.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C04 For with multiple conditions\obj\Debug\net7.0\W01.2.C04 For with multiple conditions.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C04 For with multiple conditions\obj\Debug\net7.0\W01.2.C04 For with multiple conditions.genruntimeconfig.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\Class Assignments\W01.2.C04 For with multiple conditions\obj\Debug\net7.0\ref\W01.2.C04 For with multiple conditions.dll

@@ -1,0 +1,6 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 1\Homework Assignments\W02.1.H01 Leap year\bin\Debug\W02._1.H01_Leap_year.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 1\Homework Assignments\W02.1.H01 Leap year\bin\Debug\W02._1.H01_Leap_year.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 1\Homework Assignments\W02.1.H01 Leap year\obj\Debug\W02.1.H01 Leap year.csproj.AssemblyReference.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 1\Homework Assignments\W02.1.H01 Leap year\obj\Debug\W02.1.H01 Leap year.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 1\Homework Assignments\W02.1.H01 Leap year\obj\Debug\W02._1.H01_Leap_year.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 1\Homework Assignments\W02.1.H01 Leap year\obj\Debug\W02._1.H01_Leap_year.pdb

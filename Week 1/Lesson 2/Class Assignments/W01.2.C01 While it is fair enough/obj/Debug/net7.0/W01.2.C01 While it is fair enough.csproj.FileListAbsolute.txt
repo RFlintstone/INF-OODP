@@ -1,0 +1,14 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\W01.2.C01 While it is fair enough\bin\Debug\net7.0\W01.2.C01 While it is fair enough.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\W01.2.C01 While it is fair enough\bin\Debug\net7.0\W01.2.C01 While it is fair enough.deps.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\W01.2.C01 While it is fair enough\bin\Debug\net7.0\W01.2.C01 While it is fair enough.runtimeconfig.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\W01.2.C01 While it is fair enough\bin\Debug\net7.0\W01.2.C01 While it is fair enough.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\W01.2.C01 While it is fair enough\bin\Debug\net7.0\W01.2.C01 While it is fair enough.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\W01.2.C01 While it is fair enough\obj\Debug\net7.0\W01.2.C01 While it is fair enough.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\W01.2.C01 While it is fair enough\obj\Debug\net7.0\W01.2.C01 While it is fair enough.AssemblyInfoInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\W01.2.C01 While it is fair enough\obj\Debug\net7.0\W01.2.C01 While it is fair enough.AssemblyInfo.cs
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\W01.2.C01 While it is fair enough\obj\Debug\net7.0\W01.2.C01 While it is fair enough.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\W01.2.C01 While it is fair enough\obj\Debug\net7.0\W01.2.C01 While it is fair enough.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\W01.2.C01 While it is fair enough\obj\Debug\net7.0\refint\W01.2.C01 While it is fair enough.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\W01.2.C01 While it is fair enough\obj\Debug\net7.0\W01.2.C01 While it is fair enough.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\W01.2.C01 While it is fair enough\obj\Debug\net7.0\W01.2.C01 While it is fair enough.genruntimeconfig.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 1\Lesson 2\W01.2.C01 While it is fair enough\obj\Debug\net7.0\ref\W01.2.C01 While it is fair enough.dll

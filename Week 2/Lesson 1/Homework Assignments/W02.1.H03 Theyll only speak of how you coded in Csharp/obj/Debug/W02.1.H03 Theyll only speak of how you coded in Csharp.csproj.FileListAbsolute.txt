@@ -1,0 +1,6 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 1\Homework Assignments\W02.1.H03 Theyll only speak of how you coded in Csharp\bin\Debug\W02._1.H03_Theyll_only_speak_of_how_you_coded_in_Csharp.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 1\Homework Assignments\W02.1.H03 Theyll only speak of how you coded in Csharp\bin\Debug\W02._1.H03_Theyll_only_speak_of_how_you_coded_in_Csharp.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 1\Homework Assignments\W02.1.H03 Theyll only speak of how you coded in Csharp\obj\Debug\W02.1.H03 Theyll only speak of how you coded in Csharp.csproj.AssemblyReference.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 1\Homework Assignments\W02.1.H03 Theyll only speak of how you coded in Csharp\obj\Debug\W02.1.H03 Theyll only speak of how you coded in Csharp.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 1\Homework Assignments\W02.1.H03 Theyll only speak of how you coded in Csharp\obj\Debug\W02._1.H03_Theyll_only_speak_of_how_you_coded_in_Csharp.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 1\Homework Assignments\W02.1.H03 Theyll only speak of how you coded in Csharp\obj\Debug\W02._1.H03_Theyll_only_speak_of_how_you_coded_in_Csharp.pdb

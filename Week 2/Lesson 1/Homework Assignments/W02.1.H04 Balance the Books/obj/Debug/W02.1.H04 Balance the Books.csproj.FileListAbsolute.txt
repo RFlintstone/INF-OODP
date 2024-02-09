@@ -1,0 +1,6 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 1\Homework Assignments\W02.1.H04 Balance the Books\obj\Debug\W02.1.H04 Balance the Books.csproj.AssemblyReference.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 1\Homework Assignments\W02.1.H04 Balance the Books\obj\Debug\W02.1.H04 Balance the Books.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 1\Homework Assignments\W02.1.H04 Balance the Books\bin\Debug\W02._1.H04_Balance_the_Books.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 1\Homework Assignments\W02.1.H04 Balance the Books\bin\Debug\W02._1.H04_Balance_the_Books.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 1\Homework Assignments\W02.1.H04 Balance the Books\obj\Debug\W02._1.H04_Balance_the_Books.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 1\Homework Assignments\W02.1.H04 Balance the Books\obj\Debug\W02._1.H04_Balance_the_Books.pdb
