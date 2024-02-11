@@ -1,0 +1,6 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C05 Grade List - create foreach loop\bin\Debug\W02._2.C05_Grade_List___create_foreach_loop.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C05 Grade List - create foreach loop\bin\Debug\W02._2.C05_Grade_List___create_foreach_loop.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C05 Grade List - create foreach loop\obj\Debug\W02.2.C05 Grade List - create foreach loop.csproj.AssemblyReference.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C05 Grade List - create foreach loop\obj\Debug\W02.2.C05 Grade List - create foreach loop.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C05 Grade List - create foreach loop\obj\Debug\W02._2.C05_Grade_List___create_foreach_loop.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C05 Grade List - create foreach loop\obj\Debug\W02._2.C05_Grade_List___create_foreach_loop.pdb

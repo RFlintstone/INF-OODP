@@ -1,0 +1,6 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C07 Class with List with objectively cute friends\bin\Debug\W02._2.C07_Class_with_List_with_objectively_cute_friends.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C07 Class with List with objectively cute friends\bin\Debug\W02._2.C07_Class_with_List_with_objectively_cute_friends.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C07 Class with List with objectively cute friends\obj\Debug\W02.2.C07 Class with List with objectively cute friends.csproj.AssemblyReference.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C07 Class with List with objectively cute friends\obj\Debug\W02.2.C07 Class with List with objectively cute friends.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C07 Class with List with objectively cute friends\obj\Debug\W02._2.C07_Class_with_List_with_objectively_cute_friends.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C07 Class with List with objectively cute friends\obj\Debug\W02._2.C07_Class_with_List_with_objectively_cute_friends.pdb

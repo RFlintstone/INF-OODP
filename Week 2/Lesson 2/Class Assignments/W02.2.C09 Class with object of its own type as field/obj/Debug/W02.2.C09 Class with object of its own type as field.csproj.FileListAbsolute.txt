@@ -1,0 +1,16 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C09 Class with object of its own type as field\obj\Debug\W02.2.C09 Class with object of its own type as field.csproj.AssemblyReference.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C09 Class with object of its own type as field\obj\Debug\W02.2.C09 Class with object of its own type as field.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C09 Class with object of its own type as field\bin\Debug\W02._2.C09_Class_with_object_of_its_own_type_as_field.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C09 Class with object of its own type as field\bin\Debug\W02._2.C09_Class_with_object_of_its_own_type_as_field.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C09 Class with object of its own type as field\bin\Debug\MB.System.Range.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C09 Class with object of its own type as field\bin\Debug\System.Buffers.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C09 Class with object of its own type as field\bin\Debug\System.Memory.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C09 Class with object of its own type as field\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C09 Class with object of its own type as field\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C09 Class with object of its own type as field\bin\Debug\System.Buffers.xml
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C09 Class with object of its own type as field\bin\Debug\System.Memory.xml
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C09 Class with object of its own type as field\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C09 Class with object of its own type as field\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C09 Class with object of its own type as field\obj\Debug\W02.2.C09 Class with object of its own type as field.csproj.CopyComplete
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C09 Class with object of its own type as field\obj\Debug\W02._2.C09_Class_with_object_of_its_own_type_as_field.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C09 Class with object of its own type as field\obj\Debug\W02._2.C09_Class_with_object_of_its_own_type_as_field.pdb

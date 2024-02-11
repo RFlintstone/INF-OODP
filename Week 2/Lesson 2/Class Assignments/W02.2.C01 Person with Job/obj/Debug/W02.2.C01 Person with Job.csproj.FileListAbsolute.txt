@@ -1,0 +1,6 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C01 Person with Job\bin\Debug\W02._2.C01_Person_with_Job.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C01 Person with Job\bin\Debug\W02._2.C01_Person_with_Job.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C01 Person with Job\obj\Debug\W02.2.C01 Person with Job.csproj.AssemblyReference.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C01 Person with Job\obj\Debug\W02.2.C01 Person with Job.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C01 Person with Job\obj\Debug\W02._2.C01_Person_with_Job.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C01 Person with Job\obj\Debug\W02._2.C01_Person_with_Job.pdb

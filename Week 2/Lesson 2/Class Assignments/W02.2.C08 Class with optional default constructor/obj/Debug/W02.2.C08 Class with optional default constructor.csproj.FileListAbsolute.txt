@@ -1,0 +1,6 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C08 Class with optional default constructor\obj\Debug\W02.2.C08 Class with optional default constructor.csproj.AssemblyReference.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C08 Class with optional default constructor\obj\Debug\W02.2.C08 Class with optional default constructor.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C08 Class with optional default constructor\bin\Debug\W02._2.C08_Class_with_optional_default_constructor.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C08 Class with optional default constructor\bin\Debug\W02._2.C08_Class_with_optional_default_constructor.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C08 Class with optional default constructor\obj\Debug\W02._2.C08_Class_with_optional_default_constructor.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C08 Class with optional default constructor\obj\Debug\W02._2.C08_Class_with_optional_default_constructor.pdb

@@ -1,0 +1,6 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C04 DNA - Hard-soft copy of reference\bin\Debug\W02._2.C04_DNA___Hard_soft_copy_of_reference.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C04 DNA - Hard-soft copy of reference\bin\Debug\W02._2.C04_DNA___Hard_soft_copy_of_reference.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C04 DNA - Hard-soft copy of reference\obj\Debug\W02.2.C04 DNA - Hard-soft copy of reference.csproj.AssemblyReference.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C04 DNA - Hard-soft copy of reference\obj\Debug\W02.2.C04 DNA - Hard-soft copy of reference.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C04 DNA - Hard-soft copy of reference\obj\Debug\W02._2.C04_DNA___Hard_soft_copy_of_reference.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Class Assignments\W02.2.C04 DNA - Hard-soft copy of reference\obj\Debug\W02._2.C04_DNA___Hard_soft_copy_of_reference.pdb

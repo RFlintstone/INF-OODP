@@ -1,0 +1,6 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Homework Assignments\W02.2.H04 Grocery List\obj\Debug\W02.2.H04 Grocery List.csproj.AssemblyReference.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Homework Assignments\W02.2.H04 Grocery List\obj\Debug\W02.2.H04 Grocery List.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Homework Assignments\W02.2.H04 Grocery List\bin\Debug\W02._2.H04_Grocery_List.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Homework Assignments\W02.2.H04 Grocery List\bin\Debug\W02._2.H04_Grocery_List.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Homework Assignments\W02.2.H04 Grocery List\obj\Debug\W02._2.H04_Grocery_List.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Homework Assignments\W02.2.H04 Grocery List\obj\Debug\W02._2.H04_Grocery_List.pdb

@@ -1,0 +1,6 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Homework Assignments\W02.2.H01 This Ventilator Blows\bin\Debug\W02._2.H01_This_Ventilator_Blows.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Homework Assignments\W02.2.H01 This Ventilator Blows\bin\Debug\W02._2.H01_This_Ventilator_Blows.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Homework Assignments\W02.2.H01 This Ventilator Blows\obj\Debug\W02.2.H01 This Ventilator Blows.csproj.AssemblyReference.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Homework Assignments\W02.2.H01 This Ventilator Blows\obj\Debug\W02.2.H01 This Ventilator Blows.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Homework Assignments\W02.2.H01 This Ventilator Blows\obj\Debug\W02._2.H01_This_Ventilator_Blows.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Homework Assignments\W02.2.H01 This Ventilator Blows\obj\Debug\W02._2.H01_This_Ventilator_Blows.pdb

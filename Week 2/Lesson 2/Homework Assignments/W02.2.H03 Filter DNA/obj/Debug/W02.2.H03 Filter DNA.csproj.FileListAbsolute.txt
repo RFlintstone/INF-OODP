@@ -1,0 +1,6 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Homework Assignments\W02.2.H03 Filter DNA\bin\Debug\W02._2.H03_Filter_DNA.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Homework Assignments\W02.2.H03 Filter DNA\bin\Debug\W02._2.H03_Filter_DNA.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Homework Assignments\W02.2.H03 Filter DNA\obj\Debug\W02.2.H03 Filter DNA.csproj.AssemblyReference.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Homework Assignments\W02.2.H03 Filter DNA\obj\Debug\W02.2.H03 Filter DNA.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Homework Assignments\W02.2.H03 Filter DNA\obj\Debug\W02._2.H03_Filter_DNA.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 2\Lesson 2\Homework Assignments\W02.2.H03 Filter DNA\obj\Debug\W02._2.H03_Filter_DNA.pdb
