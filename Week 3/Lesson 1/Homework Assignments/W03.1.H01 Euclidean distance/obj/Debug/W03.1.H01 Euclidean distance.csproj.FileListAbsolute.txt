@@ -1,0 +1,6 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Homework Assignments\W03.1.H01 Euclidean distance\bin\Debug\W03._1.H01_Euclidean_distance.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Homework Assignments\W03.1.H01 Euclidean distance\bin\Debug\W03._1.H01_Euclidean_distance.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Homework Assignments\W03.1.H01 Euclidean distance\obj\Debug\W03.1.H01 Euclidean distance.csproj.AssemblyReference.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Homework Assignments\W03.1.H01 Euclidean distance\obj\Debug\W03.1.H01 Euclidean distance.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Homework Assignments\W03.1.H01 Euclidean distance\obj\Debug\W03._1.H01_Euclidean_distance.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Homework Assignments\W03.1.H01 Euclidean distance\obj\Debug\W03._1.H01_Euclidean_distance.pdb

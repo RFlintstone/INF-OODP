@@ -1,0 +1,6 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Homework Assignments\W03.1.H02 Limited edition cars\obj\Debug\W03.1.H02 Limited edition cars.csproj.AssemblyReference.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Homework Assignments\W03.1.H02 Limited edition cars\obj\Debug\W03.1.H02 Limited edition cars.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Homework Assignments\W03.1.H02 Limited edition cars\bin\Debug\W03._1.H02_Limited_edition_cars.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Homework Assignments\W03.1.H02 Limited edition cars\bin\Debug\W03._1.H02_Limited_edition_cars.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Homework Assignments\W03.1.H02 Limited edition cars\obj\Debug\W03._1.H02_Limited_edition_cars.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Homework Assignments\W03.1.H02 Limited edition cars\obj\Debug\W03._1.H02_Limited_edition_cars.pdb

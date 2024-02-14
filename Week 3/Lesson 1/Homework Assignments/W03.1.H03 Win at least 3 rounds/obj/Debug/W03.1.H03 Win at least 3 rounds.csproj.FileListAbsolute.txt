@@ -1,0 +1,6 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Homework Assignments\W03.1.H03 Win at least 3 rounds\obj\Debug\W03.1.H03 Win at least 3 rounds.csproj.AssemblyReference.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Homework Assignments\W03.1.H03 Win at least 3 rounds\obj\Debug\W03.1.H03 Win at least 3 rounds.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Homework Assignments\W03.1.H03 Win at least 3 rounds\bin\Debug\W03._1.H03_Win_at_least_3_rounds.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Homework Assignments\W03.1.H03 Win at least 3 rounds\bin\Debug\W03._1.H03_Win_at_least_3_rounds.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Homework Assignments\W03.1.H03 Win at least 3 rounds\obj\Debug\W03._1.H03_Win_at_least_3_rounds.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Homework Assignments\W03.1.H03 Win at least 3 rounds\obj\Debug\W03._1.H03_Win_at_least_3_rounds.pdb

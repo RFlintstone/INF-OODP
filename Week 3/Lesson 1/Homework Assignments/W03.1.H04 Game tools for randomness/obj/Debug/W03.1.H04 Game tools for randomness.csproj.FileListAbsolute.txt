@@ -1,0 +1,6 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Homework Assignments\W03.1.H04 Game tools for randomness\bin\Debug\W03._1.H04_Game_tools_for_randomness.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Homework Assignments\W03.1.H04 Game tools for randomness\bin\Debug\W03._1.H04_Game_tools_for_randomness.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Homework Assignments\W03.1.H04 Game tools for randomness\obj\Debug\W03.1.H04 Game tools for randomness.csproj.AssemblyReference.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Homework Assignments\W03.1.H04 Game tools for randomness\obj\Debug\W03.1.H04 Game tools for randomness.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Homework Assignments\W03.1.H04 Game tools for randomness\obj\Debug\W03._1.H04_Game_tools_for_randomness.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Homework Assignments\W03.1.H04 Game tools for randomness\obj\Debug\W03._1.H04_Game_tools_for_randomness.pdb
