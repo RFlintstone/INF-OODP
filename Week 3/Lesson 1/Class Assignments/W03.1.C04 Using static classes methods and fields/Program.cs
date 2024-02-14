@@ -1,13 +1,15 @@
 ﻿using System;
-
-internal class Program
+using static System.Console;
+class Program
 {
-    public static void Main(string[] args)
+    static void Main()
     {
-        Console.WriteLine("Give the circle radius:");
+        WriteLine("Give the circle radius:");
         double radius = Convert.ToDouble(Console.ReadLine());
         var circle = new Circle(radius);
 
         //Print the rounded circle area here
+        circle.Area();
+        WriteLine($"Rounded circle area: {Math.Round(circle.Area())}");
     }
 }

@@ -1,0 +1,6 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Class Assignments\W03.1.C09 readonly\bin\Debug\W03._1.C09_readonly.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Class Assignments\W03.1.C09 readonly\bin\Debug\W03._1.C09_readonly.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Class Assignments\W03.1.C09 readonly\obj\Debug\W03.1.C09 readonly.csproj.AssemblyReference.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Class Assignments\W03.1.C09 readonly\obj\Debug\W03.1.C09 readonly.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Class Assignments\W03.1.C09 readonly\obj\Debug\W03._1.C09_readonly.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Class Assignments\W03.1.C09 readonly\obj\Debug\W03._1.C09_readonly.pdb

@@ -1,0 +1,6 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Class Assignments\W03.1.C10 Assigning to readonly\bin\Debug\W03._1.C10_Assigning_to_readonly.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Class Assignments\W03.1.C10 Assigning to readonly\bin\Debug\W03._1.C10_Assigning_to_readonly.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Class Assignments\W03.1.C10 Assigning to readonly\obj\Debug\W03.1.C10 Assigning to readonly.csproj.AssemblyReference.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Class Assignments\W03.1.C10 Assigning to readonly\obj\Debug\W03.1.C10 Assigning to readonly.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Class Assignments\W03.1.C10 Assigning to readonly\obj\Debug\W03._1.C10_Assigning_to_readonly.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Class Assignments\W03.1.C10 Assigning to readonly\obj\Debug\W03._1.C10_Assigning_to_readonly.pdb

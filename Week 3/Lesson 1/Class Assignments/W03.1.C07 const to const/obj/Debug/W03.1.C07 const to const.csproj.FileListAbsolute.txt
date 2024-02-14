@@ -1,0 +1,6 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Class Assignments\W03.1.C07 const to const\bin\Debug\W03._1.C07_const_to_const.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Class Assignments\W03.1.C07 const to const\bin\Debug\W03._1.C07_const_to_const.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Class Assignments\W03.1.C07 const to const\obj\Debug\W03.1.C07 const to const.csproj.AssemblyReference.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Class Assignments\W03.1.C07 const to const\obj\Debug\W03.1.C07 const to const.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Class Assignments\W03.1.C07 const to const\obj\Debug\W03._1.C07_const_to_const.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Class Assignments\W03.1.C07 const to const\obj\Debug\W03._1.C07_const_to_const.pdb

@@ -4,3 +4,5 @@ C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 1\Class As
 C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 1\Class Assignments\W03.1.C01 Static fields\obj\Debug\W03.1.C01 Static fields.csproj.CoreCompileInputs.cache
 C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 1\Class Assignments\W03.1.C01 Static fields\obj\Debug\W03._1.C01_Static_fields.exe
 C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 1\Class Assignments\W03.1.C01 Static fields\obj\Debug\W03._1.C01_Static_fields.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Class Assignments\W03.1.C01 Static fields\obj\Debug\W03._1.C01_Static_fields.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Class Assignments\W03.1.C01 Static fields\obj\Debug\W03._1.C01_Static_fields.pdb

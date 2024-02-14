@@ -1,0 +1,6 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Class Assignments\W03.1.C05 Fix the bug\bin\Debug\W03._1.C05_Fix_the_bug.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Class Assignments\W03.1.C05 Fix the bug\bin\Debug\W03._1.C05_Fix_the_bug.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Class Assignments\W03.1.C05 Fix the bug\obj\Debug\W03.1.C05 Fix the bug.csproj.AssemblyReference.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Class Assignments\W03.1.C05 Fix the bug\obj\Debug\W03.1.C05 Fix the bug.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Class Assignments\W03.1.C05 Fix the bug\obj\Debug\W03._1.C05_Fix_the_bug.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Class Assignments\W03.1.C05 Fix the bug\obj\Debug\W03._1.C05_Fix_the_bug.pdb

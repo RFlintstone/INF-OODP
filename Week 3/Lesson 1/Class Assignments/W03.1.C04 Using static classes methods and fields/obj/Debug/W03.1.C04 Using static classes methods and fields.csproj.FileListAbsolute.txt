@@ -1,0 +1,6 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Class Assignments\W03.1.C04 Using static classes methods and fields\bin\Debug\W03._1.C04_Using_static_classes_methods_and_fields.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Class Assignments\W03.1.C04 Using static classes methods and fields\bin\Debug\W03._1.C04_Using_static_classes_methods_and_fields.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Class Assignments\W03.1.C04 Using static classes methods and fields\obj\Debug\W03.1.C04 Using static classes methods and fields.csproj.AssemblyReference.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Class Assignments\W03.1.C04 Using static classes methods and fields\obj\Debug\W03.1.C04 Using static classes methods and fields.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Class Assignments\W03.1.C04 Using static classes methods and fields\obj\Debug\W03._1.C04_Using_static_classes_methods_and_fields.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 1\Class Assignments\W03.1.C04 Using static classes methods and fields\obj\Debug\W03._1.C04_Using_static_classes_methods_and_fields.pdb
