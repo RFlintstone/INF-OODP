@@ -1,0 +1,6 @@
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 1\Class Assignments\W03.1.C02 Static methods\bin\Debug\W03._1.C02_Static_methods.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 1\Class Assignments\W03.1.C02 Static methods\bin\Debug\W03._1.C02_Static_methods.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 1\Class Assignments\W03.1.C02 Static methods\obj\Debug\W03.1.C02 Static methods.csproj.AssemblyReference.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 1\Class Assignments\W03.1.C02 Static methods\obj\Debug\W03.1.C02 Static methods.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 1\Class Assignments\W03.1.C02 Static methods\obj\Debug\W03._1.C02_Static_methods.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 1\Class Assignments\W03.1.C02 Static methods\obj\Debug\W03._1.C02_Static_methods.pdb
