@@ -1,6 +1,6 @@
 ﻿public class Race
 {
-    public string Name { get; set; }
+    public string Name { get; }
     public List<Driver> Drivers { get; set; }
     private static readonly int[] Points = { 25, 18, 15, 12, 10, 8, 6, 4, 2, 1 };
 
@@ -29,8 +29,6 @@
         }
         
         // Print outcome of race
-        // Ex: Max Verstappen of Red Bull Racing has won the Mexico Grand Prix!
-        // After everything is printed, print a newline
         Console.WriteLine($"{Drivers[0].Name} of {teams.First(t => t.Drivers.Contains(Drivers[0])).Name} has won the {Name} Grand Prix!");
     }
 }
