@@ -1,0 +1,15 @@
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\Jukebox\bin\Debug\net6.0\Jukebox.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\Jukebox\bin\Debug\net6.0\Jukebox.deps.json
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\Jukebox\bin\Debug\net6.0\Jukebox.runtimeconfig.json
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\Jukebox\bin\Debug\net6.0\Jukebox.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\Jukebox\bin\Debug\net6.0\Jukebox.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\Jukebox\obj\Debug\net6.0\Jukebox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\Jukebox\obj\Debug\net6.0\Jukebox.AssemblyInfoInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\Jukebox\obj\Debug\net6.0\Jukebox.AssemblyInfo.cs
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\Jukebox\obj\Debug\net6.0\Jukebox.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\Jukebox\obj\Debug\net6.0\Jukebox.sourcelink.json
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\Jukebox\obj\Debug\net6.0\Jukebox.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\Jukebox\obj\Debug\net6.0\refint\Jukebox.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\Jukebox\obj\Debug\net6.0\Jukebox.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\Jukebox\obj\Debug\net6.0\Jukebox.genruntimeconfig.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\Jukebox\obj\Debug\net6.0\ref\Jukebox.dll

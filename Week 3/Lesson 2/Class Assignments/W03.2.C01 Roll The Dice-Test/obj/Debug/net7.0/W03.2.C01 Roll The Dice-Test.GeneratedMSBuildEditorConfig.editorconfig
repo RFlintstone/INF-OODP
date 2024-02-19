@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = W03._2.C01_Roll_The_Dice_Test
+build_property.ProjectDir = C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,115 @@
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\CoverletSourceRootsMapping_W03.2.C01 Roll The Dice-Test
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\testhost.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\testhost.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\W03.2.C01 Roll The Dice-Test.deps.json
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\W03.2.C01 Roll The Dice-Test.runtimeconfig.json
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\W03.2.C01 Roll The Dice-Test.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\W03.2.C01 Roll The Dice-Test.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\W03._2.C01_Roll_The_Dice.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\W03._2.C01_Roll_The_Dice.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\obj\Debug\net7.0\W03.2.C01 Roll The Dice-Test.csproj.AssemblyReference.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\obj\Debug\net7.0\W03.2.C01 Roll The Dice-Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\obj\Debug\net7.0\W03.2.C01 Roll The Dice-Test.AssemblyInfoInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\obj\Debug\net7.0\W03.2.C01 Roll The Dice-Test.AssemblyInfo.cs
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\obj\Debug\net7.0\W03.2.C01 Roll The Dice-Test.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\obj\Debug\net7.0\W03.2.C01 Roll The Dice-Test.sourcelink.json
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\obj\Debug\net7.0\W03.2.C01 Roll The Dice-Test.csproj.CopyComplete
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\obj\Debug\net7.0\W03.2.C01 Roll The Dice-Test.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\obj\Debug\net7.0\refint\W03.2.C01 Roll The Dice-Test.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\obj\Debug\net7.0\W03.2.C01 Roll The Dice-Test.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\obj\Debug\net7.0\W03.2.C01 Roll The Dice-Test.genruntimeconfig.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice-Test\obj\Debug\net7.0\ref\W03.2.C01 Roll The Dice-Test.dll

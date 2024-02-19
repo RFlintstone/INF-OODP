@@ -1,0 +1,29 @@
+﻿using System;
+using System.Collections.Generic;
+
+public class DiceBag
+{
+    public List<Die> Dice = new List<Die>(){}; // contains all Die objects
+
+    /*
+        Add a die to the bag.
+    */
+    public void Add(Die die)
+    {
+        Dice.Add(die);
+    }
+
+    /*
+        Reroll the vallues of all dice in the bag and print info for each die.
+    */
+    public void Reroll() => Dice.ForEach(dice => dice.Roll());
+
+
+    /*
+        Custom method like ToString, but prints directly to the console.
+    */
+    public void Info()
+    {
+        this.Dice.ForEach(die => Console.WriteLine(die));
+    }
+}

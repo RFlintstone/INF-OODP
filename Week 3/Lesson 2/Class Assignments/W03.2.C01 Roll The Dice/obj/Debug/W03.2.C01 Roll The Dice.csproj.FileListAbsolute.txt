@@ -1,0 +1,6 @@
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice\bin\Debug\W03._2.C01_Roll_The_Dice.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice\bin\Debug\W03._2.C01_Roll_The_Dice.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice\obj\Debug\W03.2.C01 Roll The Dice.csproj.AssemblyReference.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice\obj\Debug\W03.2.C01 Roll The Dice.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice\obj\Debug\W03._2.C01_Roll_The_Dice.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 3\Lesson 2\Class Assignments\W03.2.C01 Roll The Dice\obj\Debug\W03._2.C01_Roll_The_Dice.pdb
