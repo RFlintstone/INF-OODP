@@ -1,0 +1,15 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 2\Homework Assignments\W03.2.H03 F1 Season 2022\bin\Debug\net8.0\W03.2.H03 F1 Season 2022.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 2\Homework Assignments\W03.2.H03 F1 Season 2022\bin\Debug\net8.0\W03.2.H03 F1 Season 2022.deps.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 2\Homework Assignments\W03.2.H03 F1 Season 2022\bin\Debug\net8.0\W03.2.H03 F1 Season 2022.runtimeconfig.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 2\Homework Assignments\W03.2.H03 F1 Season 2022\bin\Debug\net8.0\W03.2.H03 F1 Season 2022.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 2\Homework Assignments\W03.2.H03 F1 Season 2022\bin\Debug\net8.0\W03.2.H03 F1 Season 2022.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 2\Homework Assignments\W03.2.H03 F1 Season 2022\obj\Debug\net8.0\W03.2.H03 F1 Season 2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 2\Homework Assignments\W03.2.H03 F1 Season 2022\obj\Debug\net8.0\W03.2.H03 F1 Season 2022.AssemblyInfoInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 2\Homework Assignments\W03.2.H03 F1 Season 2022\obj\Debug\net8.0\W03.2.H03 F1 Season 2022.AssemblyInfo.cs
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 2\Homework Assignments\W03.2.H03 F1 Season 2022\obj\Debug\net8.0\W03.2.H03 F1 Season 2022.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 2\Homework Assignments\W03.2.H03 F1 Season 2022\obj\Debug\net8.0\W03.2.H03 F1 Season 2022.sourcelink.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 2\Homework Assignments\W03.2.H03 F1 Season 2022\obj\Debug\net8.0\W03.2.H03 F1 Season 2022.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 2\Homework Assignments\W03.2.H03 F1 Season 2022\obj\Debug\net8.0\refint\W03.2.H03 F1 Season 2022.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 2\Homework Assignments\W03.2.H03 F1 Season 2022\obj\Debug\net8.0\W03.2.H03 F1 Season 2022.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 2\Homework Assignments\W03.2.H03 F1 Season 2022\obj\Debug\net8.0\W03.2.H03 F1 Season 2022.genruntimeconfig.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 3\Lesson 2\Homework Assignments\W03.2.H03 F1 Season 2022\obj\Debug\net8.0\ref\W03.2.H03 F1 Season 2022.dll

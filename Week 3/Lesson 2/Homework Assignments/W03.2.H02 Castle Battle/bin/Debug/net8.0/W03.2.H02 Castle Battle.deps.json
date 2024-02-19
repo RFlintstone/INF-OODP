@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "W03.2.H02 Castle Battle/1.0.0": {
+        "runtime": {
+          "W03.2.H02 Castle Battle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "W03.2.H02 Castle Battle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
