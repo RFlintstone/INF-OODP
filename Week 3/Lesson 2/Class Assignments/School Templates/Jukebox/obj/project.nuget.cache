@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "jzNSnyChbAfFgBMljO4jXxJ+5lHSVQXxuf/6mVgVPZaXSWMtEoHkPVbB5QtsG6IvkzdiePJyUJ00LTsC3xc8bw==",
+  "dgSpecHash": "GU4HbZKmx99kMxpJ+S4CBVcppob37XNkE4mRaoGjCuUGjKiJd51C5HtaVK5Wz3Z7yxGkCcQw27i+auMwQLD4lQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ruben\\Documents\\2. Studie\\INF\\Jaar 1\\OODP OP34\\Week 3\\Lesson 2\\Class Assignments\\School Templates\\Jukebox\\Jukebox.csproj",
+  "projectFilePath": "C:\\Users\\rwfli\\Documents\\1. Studie\\INF\\INF-OODP\\Week 3\\Lesson 2\\Class Assignments\\School Templates\\Jukebox\\Jukebox.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
   ],
   "logs": []
 }

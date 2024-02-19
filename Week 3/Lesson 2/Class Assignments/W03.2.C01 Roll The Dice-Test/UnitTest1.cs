@@ -26,20 +26,20 @@ public class RollTheDiceTest
         - Assert.IsTrue
     */
     [DataTestMethod]
-    [DataRow()]
-    [DataRow()]
-    [DataRow()]
-    [DataRow()]
-    [DataRow()]
+    [DataRow(4)]
+    [DataRow(6)]
+    [DataRow(8)]
+    [DataRow(10)]
+    [DataRow(20)]
     public void Roll_Die(int sides)
     {
         int numSides = 6;
-        Die die2 = new Die(numSides, "Fancy");
-        Assert.IsNotNull(die2);
+        Die die = new Die(numSides, "Fancy");
+        Assert.IsNotNull(die);
         
-        Assert.AreEqual(numSides, die2.Sides);
-        die2.Roll();
-        Assert.IsTrue(die2.Value >= 1 && die2.Value <= numSides);
+        Assert.AreEqual(numSides, die.Sides);
+        die.Roll();
+        Assert.IsTrue(die.Value >= 1 && die.Value <= numSides);
     }
 
     /*
@@ -52,6 +52,9 @@ public class RollTheDiceTest
     [TestMethod]
     public void Create_DiceBag()
     {
+        DiceBag diceBag = new DiceBag();
+        Assert.IsNotNull(diceBag);
+        Assert.AreEqual(0, diceBag.Dice.Count);
     }
 
     /*
@@ -65,16 +68,23 @@ public class RollTheDiceTest
     [TestMethod]
     public void Add_DiceToDiceBag()
     {
+        // List of sides
         List<int> lSides = new() { 4, 6, 8, 10, 20, 100 };
 
         // create new dice bag
-
+        DiceBag diceBag = new DiceBag();
+        
         foreach (int side in lSides)
         {
             // create a die for each side in the lSides list
+            Die die = new Die(side, "Fancy");
+            diceBag.Add(die);
         }
 
         // asserts
+        Assert.AreEqual(lSides.Count, diceBag.Dice.Count);
+        Assert.IsTrue(diceBag.Dice.Count == lSides.Count);
+        CollectionAssert.AllItemsAreNotNull(diceBag.Dice);
     }
 
     /*
@@ -89,13 +99,22 @@ public class RollTheDiceTest
         List<int> lSides = new() { 4, 6, 8, 10, 20, 100 };
 
         // create new dice bag
-
+        DiceBag diceBag = new DiceBag();
+        
         foreach (int side in lSides)
         {
             // create a die for each side in the lSides list
+            Die die = new Die(side, "Fancy");
+            diceBag.Add(die);
         }
 
         // reroll all the dice in the bag
+        diceBag.Reroll();
+        
         // asserts
+        foreach (Die die in diceBag.Dice)
+        {
+            Assert.IsTrue(die.Value >= 1 && die.Value <= die.Sides);
+        }
     }
 }
