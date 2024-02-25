@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3ijA8uVUTeRpNd80oThVTbfjG1hL275xCumOHAOmoJZwyN3PtUDFWJKwOA+9f57fHgHrQQhdVGFdjMyZobE/5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rwfli\\Documents\\1. Studie\\INF\\INF-OODP\\Week 4\\Lesson 1\\Homework Assignments\\W04.1.H02 Book collection\\W04.1.H02 Book collection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rwfli\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

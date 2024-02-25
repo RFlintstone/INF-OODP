@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("W04.1.H01 Where is my money")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84e79db6a10b54a02dc330cfe69b4332e1ed66b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("W04.1.H01 Where is my money")]
 [assembly: System.Reflection.AssemblyTitleAttribute("W04.1.H01 Where is my money")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

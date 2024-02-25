@@ -1,36 +1,11 @@
-﻿/// <summary>
-/// Represents a company with a list of employees and related properties.
-/// </summary>
-class Company
+﻿class Company
 {
-    /// <summary>
-    /// List of employees in the company.
-    /// </summary>
     public List<Employee> Employees;
-
-    /// <summary>
-    /// Distance from the company that is considered distant.
-    /// </summary>
     public int WhatIsConsideredDistant;
-
-    /// <summary>
-    /// The budget for extra travel allowance.
-    /// </summary>
     public int ExtraTravelAllowanceBudget;
-
-    /// <summary>
-    /// The maximum extra travel allowance that can be given to an employee.
-    /// </summary>
     public int MaxExtraTravelAllowance;
-
-    /// <summary>
-    /// The location of the log file.
-    /// </summary>
     public string LogLocation;
 
-    /// <summary>
-    /// Initializes a new instance of the Company class.
-    /// </summary>
     public Company()
     {
         Employees = new List<Employee>();
@@ -40,15 +15,8 @@ class Company
         LogLocation = "./Log.txt";
     }
 
-    /// <summary>
-    /// Adds an employee to the company's list of employees.
-    /// </summary>
-    /// <param name="employee">The employee to be added.</param>
     public void Hire(Employee employee) => Employees.Add(employee);
 
-    /// <summary>
-    /// Pays the monthly salary to all employees, including travel allowance.
-    /// </summary>
     public void PayMonthlySalary()
     {
         int howManyDistantEmployees = HowManyDistantEmployees();
@@ -59,72 +27,41 @@ class Company
         }
     }
 
-    /// <summary>
-    /// Calculates the travel allowance for an employee.
-    /// </summary>
-    /// <param name="employee">The employee for whom the travel allowance is calculated.</param>
-    /// <param name="howManyDistantEmployees">The number of employees who live at a distance considered distant.</param>
-    /// <returns>The calculated travel allowance.</returns>
     private int CalculateTravelAllowance(Employee employee, int howManyDistantEmployees)
     {
-        //----------------------------------------------------------|
-        // I'm still working on this method. It's not finished yet. |
-        //----------------------------------------------------------|
-        
-        // For employees that live really far (25+ km), there is a budget for extra reimbursement.
-        // This extra reimbursement is divided among the distant employees, with a maximum with 100 euros per employee.
-        // Whatever is left over from this budget is divided among the rest of the employees.
         var howManyCloseEmployees = Employees.Count - howManyDistantEmployees;
-        
-        // Give extra travel allowance to distant employees, but don't exceed the budget or return the method.
-        if(employee.DistanceFromCompany >= WhatIsConsideredDistant)
+        var standardTravelAllowance = employee.DistanceFromCompany * 10;
+        try
         {
-            if (ExtraTravelAllowanceBudget > 0)
-            {
-                int extraTravelAllowance = Math.Min(MaxExtraTravelAllowance, ExtraTravelAllowanceBudget);
-                ExtraTravelAllowanceBudget -= extraTravelAllowance;
-                return extraTravelAllowance;
-            }
-            else
-            {
-                LogException("Extra travel allowance budget exceeded.");
-                return 0;
-            }
+            var extraTravelAllowanceDistant = howManyDistantEmployees > 0 ? Math.Min(ExtraTravelAllowanceBudget / howManyDistantEmployees, MaxExtraTravelAllowance) : 0;
+            var extraTravelAllowanceClose = howManyCloseEmployees > 0 ? Math.Min((ExtraTravelAllowanceBudget - extraTravelAllowanceDistant * howManyDistantEmployees) / howManyCloseEmployees, 100) : 0;
+            return standardTravelAllowance +
+                (employee.DistanceFromCompany >= WhatIsConsideredDistant ?
+                extraTravelAllowanceDistant : extraTravelAllowanceClose);
         }
-        
-        // If there is budget left, give the rest to the close employees.
-        if (ExtraTravelAllowanceBudget > 0)
+        catch (DivideByZeroException ex)
         {
-            int extraTravelAllowance = ExtraTravelAllowanceBudget / howManyCloseEmployees;
-            ExtraTravelAllowanceBudget -= extraTravelAllowance;
-            return extraTravelAllowance;
+            string message = ex.Message;
+            message =
+                (howManyDistantEmployees == 0 ? "0 distant employees. " : "") +
+                (howManyCloseEmployees == 0 ? "0 close employees. " : "") +
+                message;
+            LogException(message);
         }
-        else
-        {
-            LogException("Extra travel allowance budget exceeded.");
-            return 0;
-        }
+        return 0;
     }
 
-    /// <summary>
-    /// Counts the number of employees who live at a distance considered distant.
-    /// </summary>
-    /// <returns>The number of employees who live at a distance considered distant.</returns>
     private int HowManyDistantEmployees()
     {
         int howMany = 0;
         foreach (var employee in Employees)
         {
-            if (employee.DistanceFromCompany >= WhatIsConsideredDistant) howMany++;
+            if (employee.DistanceFromCompany >= WhatIsConsideredDistant)
+                howMany++;
         }
-
         return howMany;
     }
 
-    /// <summary>
-    /// Logs an exception message to a file.
-    /// </summary>
-    /// <param name="message">The message to be logged.</param>
     private void LogException(string message)
     {
         try
