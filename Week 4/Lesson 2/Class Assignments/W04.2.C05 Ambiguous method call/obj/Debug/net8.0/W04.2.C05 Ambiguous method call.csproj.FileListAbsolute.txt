@@ -1,0 +1,15 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C05 Ambiguous method call\obj\Debug\net8.0\W04.2.C05 Ambiguous method call.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C05 Ambiguous method call\obj\Debug\net8.0\W04.2.C05 Ambiguous method call.AssemblyInfoInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C05 Ambiguous method call\obj\Debug\net8.0\W04.2.C05 Ambiguous method call.AssemblyInfo.cs
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C05 Ambiguous method call\obj\Debug\net8.0\W04.2.C05 Ambiguous method call.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C05 Ambiguous method call\obj\Debug\net8.0\W04.2.C05 Ambiguous method call.sourcelink.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C05 Ambiguous method call\bin\Debug\net8.0\W04.2.C05 Ambiguous method call.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C05 Ambiguous method call\bin\Debug\net8.0\W04.2.C05 Ambiguous method call.deps.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C05 Ambiguous method call\bin\Debug\net8.0\W04.2.C05 Ambiguous method call.runtimeconfig.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C05 Ambiguous method call\bin\Debug\net8.0\W04.2.C05 Ambiguous method call.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C05 Ambiguous method call\bin\Debug\net8.0\W04.2.C05 Ambiguous method call.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C05 Ambiguous method call\obj\Debug\net8.0\W04.2.C05 Ambiguous method call.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C05 Ambiguous method call\obj\Debug\net8.0\refint\W04.2.C05 Ambiguous method call.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C05 Ambiguous method call\obj\Debug\net8.0\W04.2.C05 Ambiguous method call.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C05 Ambiguous method call\obj\Debug\net8.0\W04.2.C05 Ambiguous method call.genruntimeconfig.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C05 Ambiguous method call\obj\Debug\net8.0\ref\W04.2.C05 Ambiguous method call.dll

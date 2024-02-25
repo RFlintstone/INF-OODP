@@ -1,0 +1,15 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C07 Creating objects of inherited classes\bin\Debug\net8.0\W04.2.C07 Creating objects of inherited classes.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C07 Creating objects of inherited classes\bin\Debug\net8.0\W04.2.C07 Creating objects of inherited classes.deps.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C07 Creating objects of inherited classes\bin\Debug\net8.0\W04.2.C07 Creating objects of inherited classes.runtimeconfig.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C07 Creating objects of inherited classes\bin\Debug\net8.0\W04.2.C07 Creating objects of inherited classes.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C07 Creating objects of inherited classes\bin\Debug\net8.0\W04.2.C07 Creating objects of inherited classes.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C07 Creating objects of inherited classes\obj\Debug\net8.0\W04.2.C07 Creating objects of inherited classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C07 Creating objects of inherited classes\obj\Debug\net8.0\W04.2.C07 Creating objects of inherited classes.AssemblyInfoInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C07 Creating objects of inherited classes\obj\Debug\net8.0\W04.2.C07 Creating objects of inherited classes.AssemblyInfo.cs
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C07 Creating objects of inherited classes\obj\Debug\net8.0\W04.2.C07 Creating objects of inherited classes.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C07 Creating objects of inherited classes\obj\Debug\net8.0\W04.2.C07 Creating objects of inherited classes.sourcelink.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C07 Creating objects of inherited classes\obj\Debug\net8.0\W04.2.C07 Creating objects of inherited classes.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C07 Creating objects of inherited classes\obj\Debug\net8.0\refint\W04.2.C07 Creating objects of inherited classes.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C07 Creating objects of inherited classes\obj\Debug\net8.0\W04.2.C07 Creating objects of inherited classes.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C07 Creating objects of inherited classes\obj\Debug\net8.0\W04.2.C07 Creating objects of inherited classes.genruntimeconfig.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C07 Creating objects of inherited classes\obj\Debug\net8.0\ref\W04.2.C07 Creating objects of inherited classes.dll

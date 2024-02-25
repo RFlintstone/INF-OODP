@@ -1,0 +1,15 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C08 Parameters to base constructor\bin\Debug\net8.0\W04.2.C08 Parameters to base constructor.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C08 Parameters to base constructor\bin\Debug\net8.0\W04.2.C08 Parameters to base constructor.deps.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C08 Parameters to base constructor\bin\Debug\net8.0\W04.2.C08 Parameters to base constructor.runtimeconfig.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C08 Parameters to base constructor\bin\Debug\net8.0\W04.2.C08 Parameters to base constructor.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C08 Parameters to base constructor\bin\Debug\net8.0\W04.2.C08 Parameters to base constructor.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C08 Parameters to base constructor\obj\Debug\net8.0\W04.2.C08 Parameters to base constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C08 Parameters to base constructor\obj\Debug\net8.0\W04.2.C08 Parameters to base constructor.AssemblyInfoInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C08 Parameters to base constructor\obj\Debug\net8.0\W04.2.C08 Parameters to base constructor.AssemblyInfo.cs
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C08 Parameters to base constructor\obj\Debug\net8.0\W04.2.C08 Parameters to base constructor.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C08 Parameters to base constructor\obj\Debug\net8.0\W04.2.C08 Parameters to base constructor.sourcelink.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C08 Parameters to base constructor\obj\Debug\net8.0\W04.2.C08 Parameters to base constructor.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C08 Parameters to base constructor\obj\Debug\net8.0\refint\W04.2.C08 Parameters to base constructor.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C08 Parameters to base constructor\obj\Debug\net8.0\W04.2.C08 Parameters to base constructor.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C08 Parameters to base constructor\obj\Debug\net8.0\W04.2.C08 Parameters to base constructor.genruntimeconfig.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Class Assignments\W04.2.C08 Parameters to base constructor\obj\Debug\net8.0\ref\W04.2.C08 Parameters to base constructor.dll
