@@ -1,83 +1,96 @@
-﻿using System.Runtime.InteropServices;
+﻿using System;
 using Newtonsoft.Json;
+using static System.Console;
 
 class Program
 {
     public static void Main(string[] args)
     {
-        // Print the books
-        Console.WriteLine("Before adding a new book:");
-        foreach (var book in Book.LoadJson())
+        string input;
+        do
         {
-            Console.WriteLine(book);
-        }
-
-        // Add and save a new book, if the input is '+'
-        string input = Console.ReadLine();
-        if (input.Length > 0 && input == "+")
-        {
-            string title = Console.ReadLine();
-            string author = Console.ReadLine();
-            int publicationYear;
-            if (!int.TryParse(Console.ReadLine(), out publicationYear))
+            Book.PrintAllBooks();
+            WriteLine();
+            PrintMenu();
+            input = ReadLine() ?? "";
+            if (input == "+")
             {
-                Console.WriteLine("Invalid input for publication year. Please enter a valid integer.");
-                return;
+                AddBook();
+                WriteLine();
             }
-
-            new Book(title, author, publicationYear).SaveJson();
-        }
-        
-        // Remove an existing book, if the input is '-'
-        if (input.Length > 0 && input == "-")
-        {
-            do
+            else if (input == "-")
             {
-                string title = Console.ReadLine();
-                string author = Console.ReadLine();
-                int publicationYear;
-                if (!int.TryParse(Console.ReadLine(), out publicationYear))
-                {
-                    Console.WriteLine("Invalid input for publication year. Please enter a valid integer.");
-                    return;
-                }
-
+                RemoveBook();
+                WriteLine();
+            } 
+            // Check if we can parse the input to an integer. If it can it is a number.
+            else if (int.TryParse(input, out int index))
+            {
                 var books = Book.LoadJson();
-                var book = new Book(title, author, publicationYear);
-                books.Remove(book);
-                book.SaveJson();
-            } while (Console.ReadLine() != "q");
-        }
+                if (index > 0 && index <= books.Count)
+                {
+                    WriteLine(books[index - 1]);
+                }
+                else
+                {
+                    WriteLine("Book does not exist");
+                }
+            }
+            else
+            {
+                WriteLine("Invalid choice");
+            }
+        } while (input != "q");
+    }
 
-        // Print the books
-        Console.WriteLine("\nBefore adding a new book:");
-        foreach (var book in Book.LoadJson())
+    private static void PrintMenu()
+    {
+        WriteLine("What would you like to do?");
+        WriteLine("+: add a new book");
+        WriteLine("-: remove a book");
+        WriteLine("A number: see information on this book");
+        WriteLine("q: quit");
+    }
+
+    private static void AddBook()
+    {
+        WriteLine("Enter the title of the new book:");
+        string title = ReadLine();
+        WriteLine("Enter the author of the new book:");
+        string author = ReadLine();
+        WriteLine("Enter the publication year of the new book:");
+        if (int.TryParse(ReadLine(), out int publicationYear))
         {
-            Console.WriteLine(book);
+            new Book(title, author, publicationYear).AddToJson();
+        }
+        else
+        {
+            WriteLine("Year is not in a valid format.");
         }
     }
 
-    /// <summary>
-    /// Load the books from the JSON file
-    /// </summary>
-    /// <returns>List of Books</returns>
-    // private static List<Book> LoadJson()
-    // {
-    //     var json = File.ReadAllText(Book.path);
-    //     var books = JsonConvert.DeserializeObject<List<Book>>(json);
-    //     return books ?? new List<Book>();
-    // }
-
-    /// <summary>
-    /// Save the books to the JSON file
-    /// </summary>
-    /// <param name="books">List to save to JSON</param>
-    // private static void SaveJson(List<Book> books)
-    // {
-    //     Formatting format;
-    //     if (RuntimeInformation.IsOSPlatform(OSPlatform.Windows)) format = Formatting.Indented;
-    //     else format = Formatting.None;
-    //     var json = JsonConvert.SerializeObject(books, format);
-    //     File.WriteAllText(Book.path, json);
-    // }
+    private static void RemoveBook()
+    {
+        try
+        {
+            WriteLine("Enter the number of the book to remove:");
+            int index = int.Parse(ReadLine() ?? "");
+            var books = Book.LoadJson();
+        
+            if (index > 0 && index <= books.Count)
+            {
+                var bookSelect = books[index - 1];
+                bookSelect.RemoveFromJson();
+            }
+            else
+            {
+                WriteLine("Book does not exist");
+            }
+        }
+        catch (FormatException)
+        {
+            WriteLine("Not an index.");
+            // throw;
+        }
+    }
 }

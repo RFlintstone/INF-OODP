@@ -84,12 +84,16 @@ public class BookCollectionTest
     public void Set_Books()
     {
         // Create a list with three books
-
-        // Set the books
+        books.Clear();
+        books.Add(new Book("Moby Dick", "Herman Melville", 1851));
+        books.Add(new Book("Pride and Prejudice", "Jane Austen", 1813));
+        books.Add(new Book("War and Peace", "Leo Tolstoy", 1869));        // Set the books
 
         // Assert.IsTrue: assert that the count of books equals three    
-
+        Assert.IsTrue(books.Count == 3);
+        
         // Assert.AreEqual: assert (twice) that the title of an added book matches the expected title)
-
+        Assert.AreEqual("Moby Dick", books[0].Title);
+        Assert.AreEqual("Pride and Prejudice", books[1].Title);
     }
 }

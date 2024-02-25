@@ -9,9 +9,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13dc5695-0fa4-41c3-99d8-b081786a1626" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/W04.1.H02 Book collection-test/BookCollectionTest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W04.1.H02 Book collection/Book.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W04.1.H02 Book collection/books.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Class Assignments/W04.1.C01 File reading/MyTextFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Class Assignments/W04.1.C01 File reading/MyTextFile.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Class Assignments/W04.1.C02 File writing/MyTextFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Class Assignments/W04.1.C02 File writing/MyTextFile.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Class Assignments/W04.1.C03 Reading and updating values in JSON files/Calculator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Class Assignments/W04.1.C03 Reading and updating values in JSON files/Calculator.cs" afterDir="false" />
@@ -26,20 +23,22 @@
       <change beforePath="$PROJECT_DIR$/../Class Assignments/W04.1.C07 Files and specific exception handling/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Class Assignments/W04.1.C07 Files and specific exception handling/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Class Assignments/W04.1.C08 finally block/People.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Class Assignments/W04.1.C08 finally block/People.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Class Assignments/W04.1.C08 finally block/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Class Assignments/W04.1.C08 finally block/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Homework Assignments.dir/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/W04.1.H01 Where is my money/Company.cs" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H01 Where is my money/Company.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W04.1.H01 Where is my money/bin/Debug/net8.0/Log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H01 Where is my money/bin/Debug/net8.0/Log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W04.1.H01 Where is my money/bin/Debug/net8.0/W04.1.H01 Where is my money.dll" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H01 Where is my money/bin/Debug/net8.0/W04.1.H01 Where is my money.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W04.1.H01 Where is my money/bin/Debug/net8.0/W04.1.H01 Where is my money.exe" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H01 Where is my money/bin/Debug/net8.0/W04.1.H01 Where is my money.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W04.1.H01 Where is my money/bin/Debug/net8.0/W04.1.H01 Where is my money.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H01 Where is my money/bin/Debug/net8.0/W04.1.H01 Where is my money.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W04.1.H01 Where is my money/obj/Debug/net8.0/W04.1.H01 Where is my money.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H01 Where is my money/obj/Debug/net8.0/W04.1.H01 Where is my money.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W04.1.H01 Where is my money/obj/Debug/net8.0/W04.1.H01 Where is my money.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H01 Where is my money/obj/Debug/net8.0/W04.1.H01 Where is my money.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W04.1.H01 Where is my money/obj/Debug/net8.0/W04.1.H01 Where is my money.dll" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H01 Where is my money/obj/Debug/net8.0/W04.1.H01 Where is my money.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W04.1.H01 Where is my money/obj/Debug/net8.0/W04.1.H01 Where is my money.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H01 Where is my money/obj/Debug/net8.0/W04.1.H01 Where is my money.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W04.1.H01 Where is my money/obj/Debug/net8.0/W04.1.H01 Where is my money.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H01 Where is my money/obj/Debug/net8.0/W04.1.H01 Where is my money.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W04.1.H01 Where is my money/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H01 Where is my money/obj/Debug/net8.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W04.1.H01 Where is my money/obj/Debug/net8.0/ref/W04.1.H01 Where is my money.dll" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H01 Where is my money/obj/Debug/net8.0/ref/W04.1.H01 Where is my money.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W04.1.H01 Where is my money/obj/Debug/net8.0/refint/W04.1.H01 Where is my money.dll" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H01 Where is my money/obj/Debug/net8.0/refint/W04.1.H01 Where is my money.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Homework Assignments.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Homework Assignments.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W04.1.H02 Book collection-test/BookCollectionTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H02 Book collection-test/BookCollectionTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W04.1.H02 Book collection/Book.cs" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H02 Book collection/Book.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W04.1.H02 Book collection/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H02 Book collection/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W04.1.H02 Book collection/bin/Debug/net8.0/W04.1.H02 Book collection.dll" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H02 Book collection/bin/Debug/net8.0/W04.1.H02 Book collection.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W04.1.H02 Book collection/bin/Debug/net8.0/W04.1.H02 Book collection.exe" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H02 Book collection/bin/Debug/net8.0/W04.1.H02 Book collection.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W04.1.H02 Book collection/bin/Debug/net8.0/W04.1.H02 Book collection.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H02 Book collection/bin/Debug/net8.0/W04.1.H02 Book collection.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W04.1.H02 Book collection/books.json" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H02 Book collection/books.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W04.1.H02 Book collection/obj/Debug/net8.0/W04.1.H02 Book collection.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H02 Book collection/obj/Debug/net8.0/W04.1.H02 Book collection.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W04.1.H02 Book collection/obj/Debug/net8.0/W04.1.H02 Book collection.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H02 Book collection/obj/Debug/net8.0/W04.1.H02 Book collection.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W04.1.H02 Book collection/obj/Debug/net8.0/W04.1.H02 Book collection.dll" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H02 Book collection/obj/Debug/net8.0/W04.1.H02 Book collection.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W04.1.H02 Book collection/obj/Debug/net8.0/W04.1.H02 Book collection.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H02 Book collection/obj/Debug/net8.0/W04.1.H02 Book collection.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W04.1.H02 Book collection/obj/Debug/net8.0/W04.1.H02 Book collection.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H02 Book collection/obj/Debug/net8.0/W04.1.H02 Book collection.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W04.1.H02 Book collection/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H02 Book collection/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W04.1.H02 Book collection/obj/Debug/net8.0/ref/W04.1.H02 Book collection.dll" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H02 Book collection/obj/Debug/net8.0/ref/W04.1.H02 Book collection.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W04.1.H02 Book collection/obj/Debug/net8.0/refint/W04.1.H02 Book collection.dll" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H02 Book collection/obj/Debug/net8.0/refint/W04.1.H02 Book collection.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,10 +52,10 @@
     <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/dotnet/runtime/5535e31a712343a63f5d7d796cd874e563e5ac14/src/libraries/System.Private.CoreLib/src/System/Collections/Generic/List.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/053cba69424c47858472194d509c3cdc12bb0/8e/f2cc0410/Assert.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2cpO8hC6A3HpuahIkigrLa7lECj" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -65,6 +64,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     ".NET Project.W04.1.H02 Book collection.executor": "Run",
+    ".NET Static Method.Book.SetStandardBooks.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -120,6 +120,27 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="Book.SetStandardBooks" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="C:\Users\rwfli\AppData\Local\Programs\Rider\lib\ReSharperHost\JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/W04.1.H02 Book collection/W04.1.H02 Book collection.csproj" />
+      <option name="PROJECT_TFM" value="net8.0" />
+      <option name="CLASS_NAME" value="Book" />
+      <option name="METHOD_NAME" value="SetStandardBooks" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Static Method.Book.SetStandardBooks" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -130,6 +151,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708804896766</updated>
       <workItem from="1708804899143" duration="3318000" />
+      <workItem from="1708863428721" duration="5732000" />
     </task>
     <servers />
   </component>
