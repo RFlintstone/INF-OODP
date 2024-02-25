@@ -1,0 +1,15 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Homework Assignments\W04.2.H02 Library\bin\Debug\net8.0\W04.2.H02 Library.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Homework Assignments\W04.2.H02 Library\bin\Debug\net8.0\W04.2.H02 Library.deps.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Homework Assignments\W04.2.H02 Library\bin\Debug\net8.0\W04.2.H02 Library.runtimeconfig.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Homework Assignments\W04.2.H02 Library\bin\Debug\net8.0\W04.2.H02 Library.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Homework Assignments\W04.2.H02 Library\bin\Debug\net8.0\W04.2.H02 Library.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Homework Assignments\W04.2.H02 Library\obj\Debug\net8.0\W04.2.H02 Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Homework Assignments\W04.2.H02 Library\obj\Debug\net8.0\W04.2.H02 Library.AssemblyInfoInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Homework Assignments\W04.2.H02 Library\obj\Debug\net8.0\W04.2.H02 Library.AssemblyInfo.cs
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Homework Assignments\W04.2.H02 Library\obj\Debug\net8.0\W04.2.H02 Library.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Homework Assignments\W04.2.H02 Library\obj\Debug\net8.0\W04.2.H02 Library.sourcelink.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Homework Assignments\W04.2.H02 Library\obj\Debug\net8.0\W04.2.H02 Library.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Homework Assignments\W04.2.H02 Library\obj\Debug\net8.0\refint\W04.2.H02 Library.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Homework Assignments\W04.2.H02 Library\obj\Debug\net8.0\W04.2.H02 Library.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Homework Assignments\W04.2.H02 Library\obj\Debug\net8.0\W04.2.H02 Library.genruntimeconfig.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 4\Lesson 2\Homework Assignments\W04.2.H02 Library\obj\Debug\net8.0\ref\W04.2.H02 Library.dll
