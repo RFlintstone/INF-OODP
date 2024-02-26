@@ -1,0 +1,15 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Homework Assignments\W05.1.H02 E-commerce\obj\Debug\net8.0\W05.1.H02 E-commerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Homework Assignments\W05.1.H02 E-commerce\obj\Debug\net8.0\W05.1.H02 E-commerce.AssemblyInfoInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Homework Assignments\W05.1.H02 E-commerce\obj\Debug\net8.0\W05.1.H02 E-commerce.AssemblyInfo.cs
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Homework Assignments\W05.1.H02 E-commerce\obj\Debug\net8.0\W05.1.H02 E-commerce.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Homework Assignments\W05.1.H02 E-commerce\obj\Debug\net8.0\W05.1.H02 E-commerce.sourcelink.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Homework Assignments\W05.1.H02 E-commerce\bin\Debug\net8.0\W05.1.H02 E-commerce.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Homework Assignments\W05.1.H02 E-commerce\bin\Debug\net8.0\W05.1.H02 E-commerce.deps.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Homework Assignments\W05.1.H02 E-commerce\bin\Debug\net8.0\W05.1.H02 E-commerce.runtimeconfig.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Homework Assignments\W05.1.H02 E-commerce\bin\Debug\net8.0\W05.1.H02 E-commerce.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Homework Assignments\W05.1.H02 E-commerce\bin\Debug\net8.0\W05.1.H02 E-commerce.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Homework Assignments\W05.1.H02 E-commerce\obj\Debug\net8.0\W05.1.H02 E-commerce.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Homework Assignments\W05.1.H02 E-commerce\obj\Debug\net8.0\refint\W05.1.H02 E-commerce.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Homework Assignments\W05.1.H02 E-commerce\obj\Debug\net8.0\W05.1.H02 E-commerce.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Homework Assignments\W05.1.H02 E-commerce\obj\Debug\net8.0\W05.1.H02 E-commerce.genruntimeconfig.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Homework Assignments\W05.1.H02 E-commerce\obj\Debug\net8.0\ref\W05.1.H02 E-commerce.dll
