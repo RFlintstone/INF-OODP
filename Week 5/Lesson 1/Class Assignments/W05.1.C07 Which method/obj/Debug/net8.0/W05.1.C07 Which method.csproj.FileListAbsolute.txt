@@ -1,0 +1,15 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C07 Which method\bin\Debug\net8.0\W05.1.C07 Which method.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C07 Which method\bin\Debug\net8.0\W05.1.C07 Which method.deps.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C07 Which method\bin\Debug\net8.0\W05.1.C07 Which method.runtimeconfig.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C07 Which method\bin\Debug\net8.0\W05.1.C07 Which method.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C07 Which method\bin\Debug\net8.0\W05.1.C07 Which method.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C07 Which method\obj\Debug\net8.0\W05.1.C07 Which method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C07 Which method\obj\Debug\net8.0\W05.1.C07 Which method.AssemblyInfoInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C07 Which method\obj\Debug\net8.0\W05.1.C07 Which method.AssemblyInfo.cs
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C07 Which method\obj\Debug\net8.0\W05.1.C07 Which method.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C07 Which method\obj\Debug\net8.0\W05.1.C07 Which method.sourcelink.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C07 Which method\obj\Debug\net8.0\W05.1.C07 Which method.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C07 Which method\obj\Debug\net8.0\refint\W05.1.C07 Which method.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C07 Which method\obj\Debug\net8.0\W05.1.C07 Which method.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C07 Which method\obj\Debug\net8.0\W05.1.C07 Which method.genruntimeconfig.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C07 Which method\obj\Debug\net8.0\ref\W05.1.C07 Which method.dll

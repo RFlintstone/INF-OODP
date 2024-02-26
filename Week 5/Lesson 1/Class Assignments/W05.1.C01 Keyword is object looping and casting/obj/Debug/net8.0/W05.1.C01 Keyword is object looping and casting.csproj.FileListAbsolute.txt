@@ -1,0 +1,15 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C01 Keyword is object looping and casting\obj\Debug\net8.0\W05.1.C01 Keyword is object looping and casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C01 Keyword is object looping and casting\obj\Debug\net8.0\W05.1.C01 Keyword is object looping and casting.AssemblyInfoInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C01 Keyword is object looping and casting\obj\Debug\net8.0\W05.1.C01 Keyword is object looping and casting.AssemblyInfo.cs
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C01 Keyword is object looping and casting\obj\Debug\net8.0\W05.1.C01 Keyword is object looping and casting.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C01 Keyword is object looping and casting\obj\Debug\net8.0\W05.1.C01 Keyword is object looping and casting.sourcelink.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C01 Keyword is object looping and casting\bin\Debug\net8.0\W05.1.C01 Keyword is object looping and casting.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C01 Keyword is object looping and casting\bin\Debug\net8.0\W05.1.C01 Keyword is object looping and casting.deps.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C01 Keyword is object looping and casting\bin\Debug\net8.0\W05.1.C01 Keyword is object looping and casting.runtimeconfig.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C01 Keyword is object looping and casting\bin\Debug\net8.0\W05.1.C01 Keyword is object looping and casting.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C01 Keyword is object looping and casting\bin\Debug\net8.0\W05.1.C01 Keyword is object looping and casting.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C01 Keyword is object looping and casting\obj\Debug\net8.0\W05.1.C01 Keyword is object looping and casting.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C01 Keyword is object looping and casting\obj\Debug\net8.0\refint\W05.1.C01 Keyword is object looping and casting.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C01 Keyword is object looping and casting\obj\Debug\net8.0\W05.1.C01 Keyword is object looping and casting.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C01 Keyword is object looping and casting\obj\Debug\net8.0\W05.1.C01 Keyword is object looping and casting.genruntimeconfig.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C01 Keyword is object looping and casting\obj\Debug\net8.0\ref\W05.1.C01 Keyword is object looping and casting.dll

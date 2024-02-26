@@ -1,0 +1,15 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C08 Programmer goes shopping\bin\Debug\net8.0\W05.1.C08 Programmer goes shopping.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C08 Programmer goes shopping\bin\Debug\net8.0\W05.1.C08 Programmer goes shopping.deps.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C08 Programmer goes shopping\bin\Debug\net8.0\W05.1.C08 Programmer goes shopping.runtimeconfig.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C08 Programmer goes shopping\bin\Debug\net8.0\W05.1.C08 Programmer goes shopping.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C08 Programmer goes shopping\bin\Debug\net8.0\W05.1.C08 Programmer goes shopping.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C08 Programmer goes shopping\obj\Debug\net8.0\W05.1.C08 Programmer goes shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C08 Programmer goes shopping\obj\Debug\net8.0\W05.1.C08 Programmer goes shopping.AssemblyInfoInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C08 Programmer goes shopping\obj\Debug\net8.0\W05.1.C08 Programmer goes shopping.AssemblyInfo.cs
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C08 Programmer goes shopping\obj\Debug\net8.0\W05.1.C08 Programmer goes shopping.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C08 Programmer goes shopping\obj\Debug\net8.0\W05.1.C08 Programmer goes shopping.sourcelink.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C08 Programmer goes shopping\obj\Debug\net8.0\W05.1.C08 Programmer goes shopping.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C08 Programmer goes shopping\obj\Debug\net8.0\refint\W05.1.C08 Programmer goes shopping.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C08 Programmer goes shopping\obj\Debug\net8.0\W05.1.C08 Programmer goes shopping.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C08 Programmer goes shopping\obj\Debug\net8.0\W05.1.C08 Programmer goes shopping.genruntimeconfig.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C08 Programmer goes shopping\obj\Debug\net8.0\ref\W05.1.C08 Programmer goes shopping.dll

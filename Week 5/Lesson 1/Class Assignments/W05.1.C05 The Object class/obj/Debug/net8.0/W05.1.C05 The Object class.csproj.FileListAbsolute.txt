@@ -1,0 +1,15 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C05 The Object class\bin\Debug\net8.0\W05.1.C05 The Object class.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C05 The Object class\bin\Debug\net8.0\W05.1.C05 The Object class.deps.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C05 The Object class\bin\Debug\net8.0\W05.1.C05 The Object class.runtimeconfig.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C05 The Object class\bin\Debug\net8.0\W05.1.C05 The Object class.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C05 The Object class\bin\Debug\net8.0\W05.1.C05 The Object class.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C05 The Object class\obj\Debug\net8.0\W05.1.C05 The Object class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C05 The Object class\obj\Debug\net8.0\W05.1.C05 The Object class.AssemblyInfoInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C05 The Object class\obj\Debug\net8.0\W05.1.C05 The Object class.AssemblyInfo.cs
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C05 The Object class\obj\Debug\net8.0\W05.1.C05 The Object class.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C05 The Object class\obj\Debug\net8.0\W05.1.C05 The Object class.sourcelink.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C05 The Object class\obj\Debug\net8.0\W05.1.C05 The Object class.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C05 The Object class\obj\Debug\net8.0\refint\W05.1.C05 The Object class.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C05 The Object class\obj\Debug\net8.0\W05.1.C05 The Object class.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C05 The Object class\obj\Debug\net8.0\W05.1.C05 The Object class.genruntimeconfig.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C05 The Object class\obj\Debug\net8.0\ref\W05.1.C05 The Object class.dll

@@ -1,0 +1,15 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C06 Keyword as\bin\Debug\net8.0\W05.1.C06 Keyword as.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C06 Keyword as\bin\Debug\net8.0\W05.1.C06 Keyword as.deps.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C06 Keyword as\bin\Debug\net8.0\W05.1.C06 Keyword as.runtimeconfig.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C06 Keyword as\bin\Debug\net8.0\W05.1.C06 Keyword as.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C06 Keyword as\bin\Debug\net8.0\W05.1.C06 Keyword as.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C06 Keyword as\obj\Debug\net8.0\W05.1.C06 Keyword as.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C06 Keyword as\obj\Debug\net8.0\W05.1.C06 Keyword as.AssemblyInfoInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C06 Keyword as\obj\Debug\net8.0\W05.1.C06 Keyword as.AssemblyInfo.cs
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C06 Keyword as\obj\Debug\net8.0\W05.1.C06 Keyword as.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C06 Keyword as\obj\Debug\net8.0\W05.1.C06 Keyword as.sourcelink.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C06 Keyword as\obj\Debug\net8.0\W05.1.C06 Keyword as.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C06 Keyword as\obj\Debug\net8.0\refint\W05.1.C06 Keyword as.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C06 Keyword as\obj\Debug\net8.0\W05.1.C06 Keyword as.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C06 Keyword as\obj\Debug\net8.0\W05.1.C06 Keyword as.genruntimeconfig.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C06 Keyword as\obj\Debug\net8.0\ref\W05.1.C06 Keyword as.dll

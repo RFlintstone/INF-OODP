@@ -1,0 +1,15 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C04 Derived and derived further\bin\Debug\net8.0\W05.1.C04 Derived and derived further.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C04 Derived and derived further\bin\Debug\net8.0\W05.1.C04 Derived and derived further.deps.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C04 Derived and derived further\bin\Debug\net8.0\W05.1.C04 Derived and derived further.runtimeconfig.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C04 Derived and derived further\bin\Debug\net8.0\W05.1.C04 Derived and derived further.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C04 Derived and derived further\bin\Debug\net8.0\W05.1.C04 Derived and derived further.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C04 Derived and derived further\obj\Debug\net8.0\W05.1.C04 Derived and derived further.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C04 Derived and derived further\obj\Debug\net8.0\W05.1.C04 Derived and derived further.AssemblyInfoInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C04 Derived and derived further\obj\Debug\net8.0\W05.1.C04 Derived and derived further.AssemblyInfo.cs
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C04 Derived and derived further\obj\Debug\net8.0\W05.1.C04 Derived and derived further.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C04 Derived and derived further\obj\Debug\net8.0\W05.1.C04 Derived and derived further.sourcelink.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C04 Derived and derived further\obj\Debug\net8.0\W05.1.C04 Derived and derived further.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C04 Derived and derived further\obj\Debug\net8.0\refint\W05.1.C04 Derived and derived further.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C04 Derived and derived further\obj\Debug\net8.0\W05.1.C04 Derived and derived further.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C04 Derived and derived further\obj\Debug\net8.0\W05.1.C04 Derived and derived further.genruntimeconfig.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Class Assignments\W05.1.C04 Derived and derived further\obj\Debug\net8.0\ref\W05.1.C04 Derived and derived further.dll
