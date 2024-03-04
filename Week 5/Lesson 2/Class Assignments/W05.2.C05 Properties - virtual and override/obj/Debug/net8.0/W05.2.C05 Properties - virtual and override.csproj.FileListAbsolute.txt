@@ -1,0 +1,15 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C05 Properties - virtual and override\obj\Debug\net8.0\W05.2.C05 Properties - virtual and override.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C05 Properties - virtual and override\obj\Debug\net8.0\W05.2.C05 Properties - virtual and override.AssemblyInfoInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C05 Properties - virtual and override\obj\Debug\net8.0\W05.2.C05 Properties - virtual and override.AssemblyInfo.cs
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C05 Properties - virtual and override\obj\Debug\net8.0\W05.2.C05 Properties - virtual and override.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C05 Properties - virtual and override\obj\Debug\net8.0\W05.2.C05 Properties - virtual and override.sourcelink.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C05 Properties - virtual and override\bin\Debug\net8.0\W05.2.C05 Properties - virtual and override.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C05 Properties - virtual and override\bin\Debug\net8.0\W05.2.C05 Properties - virtual and override.deps.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C05 Properties - virtual and override\bin\Debug\net8.0\W05.2.C05 Properties - virtual and override.runtimeconfig.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C05 Properties - virtual and override\bin\Debug\net8.0\W05.2.C05 Properties - virtual and override.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C05 Properties - virtual and override\bin\Debug\net8.0\W05.2.C05 Properties - virtual and override.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C05 Properties - virtual and override\obj\Debug\net8.0\W05.2.C05 Properties - virtual and override.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C05 Properties - virtual and override\obj\Debug\net8.0\refint\W05.2.C05 Properties - virtual and override.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C05 Properties - virtual and override\obj\Debug\net8.0\W05.2.C05 Properties - virtual and override.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C05 Properties - virtual and override\obj\Debug\net8.0\W05.2.C05 Properties - virtual and override.genruntimeconfig.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C05 Properties - virtual and override\obj\Debug\net8.0\ref\W05.2.C05 Properties - virtual and override.dll

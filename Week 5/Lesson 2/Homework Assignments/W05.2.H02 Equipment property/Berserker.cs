@@ -1,6 +1,7 @@
-﻿namespace W05._2.H02_Equipment_property;
-
-public class Berserker
+﻿class Berserker : Fighter
 {
-    
+    Berserker(string name, Weapon mainWeapon, Weapon secondaryWeapon) : base(name, mainWeapon)
+    {
+        SecondaryWeapon = secondaryWeapon;
+    }
 }

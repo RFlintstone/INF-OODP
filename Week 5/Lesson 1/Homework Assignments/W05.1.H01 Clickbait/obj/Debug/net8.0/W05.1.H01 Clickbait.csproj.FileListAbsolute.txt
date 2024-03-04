@@ -1,0 +1,15 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Homework Assignments\W05.1.H01 Clickbait\bin\Debug\net8.0\W05.1.H01 Clickbait.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Homework Assignments\W05.1.H01 Clickbait\bin\Debug\net8.0\W05.1.H01 Clickbait.deps.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Homework Assignments\W05.1.H01 Clickbait\bin\Debug\net8.0\W05.1.H01 Clickbait.runtimeconfig.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Homework Assignments\W05.1.H01 Clickbait\bin\Debug\net8.0\W05.1.H01 Clickbait.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Homework Assignments\W05.1.H01 Clickbait\bin\Debug\net8.0\W05.1.H01 Clickbait.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Homework Assignments\W05.1.H01 Clickbait\obj\Debug\net8.0\W05.1.H01 Clickbait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Homework Assignments\W05.1.H01 Clickbait\obj\Debug\net8.0\W05.1.H01 Clickbait.AssemblyInfoInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Homework Assignments\W05.1.H01 Clickbait\obj\Debug\net8.0\W05.1.H01 Clickbait.AssemblyInfo.cs
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Homework Assignments\W05.1.H01 Clickbait\obj\Debug\net8.0\W05.1.H01 Clickbait.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Homework Assignments\W05.1.H01 Clickbait\obj\Debug\net8.0\W05.1.H01 Clickbait.sourcelink.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Homework Assignments\W05.1.H01 Clickbait\obj\Debug\net8.0\W05.1.H01 Clickbait.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Homework Assignments\W05.1.H01 Clickbait\obj\Debug\net8.0\refint\W05.1.H01 Clickbait.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Homework Assignments\W05.1.H01 Clickbait\obj\Debug\net8.0\W05.1.H01 Clickbait.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Homework Assignments\W05.1.H01 Clickbait\obj\Debug\net8.0\W05.1.H01 Clickbait.genruntimeconfig.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 1\Homework Assignments\W05.1.H01 Clickbait\obj\Debug\net8.0\ref\W05.1.H01 Clickbait.dll

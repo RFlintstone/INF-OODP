@@ -1,6 +1,9 @@
-﻿namespace W05._2.H02_Equipment_property;
-
-public class RangedWeapon
+﻿public class RangedWeapon
 {
-    
+    public int Range { get; private set; }
+
+    public RangedWeapon(int range)
+    {
+        Range = range;
+    }
 }

@@ -1,30 +1,32 @@
 ﻿public class BankAccount
 {
     private double _balance;
+    protected int YearsPassed = 0;
+    protected double InterestRate;
 
-    public BankAccount(double balance)
+    public BankAccount(double balance, double interestRate)
     {
         _balance = balance;
+        InterestRate = interestRate;
     }
 
     public double ReadBalance() => _balance;
 
-    public void Deposit(double amount)
+    public virtual double Withdraw(double amount)
     {
-        if (amount > 0)
-            _balance += amount;
-    }
-
-    public double Withdraw(double amount)
-    {
-        if (!SufficientBalance(amount))
+        if (_balance < amount)
             return 0;
-        return _balance -= amount;
+        _balance -= amount;
+        return amount;
     }
 
-    private bool SufficientBalance(double amount)
+    public virtual void NextYear()
     {
-        bool hasSufficientFunds = _balance >= amount;
-        return hasSufficientFunds;
+        ApplyInterest();
+    }
+
+    protected void ApplyInterest()
+    {
+        _balance += _balance * InterestRate;
     }
 }

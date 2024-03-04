@@ -1,0 +1,15 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C06 Properties - access modifiers\bin\Debug\net8.0\W05.2.C06 Properties - access modifiers.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C06 Properties - access modifiers\bin\Debug\net8.0\W05.2.C06 Properties - access modifiers.deps.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C06 Properties - access modifiers\bin\Debug\net8.0\W05.2.C06 Properties - access modifiers.runtimeconfig.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C06 Properties - access modifiers\bin\Debug\net8.0\W05.2.C06 Properties - access modifiers.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C06 Properties - access modifiers\bin\Debug\net8.0\W05.2.C06 Properties - access modifiers.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C06 Properties - access modifiers\obj\Debug\net8.0\W05.2.C06 Properties - access modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C06 Properties - access modifiers\obj\Debug\net8.0\W05.2.C06 Properties - access modifiers.AssemblyInfoInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C06 Properties - access modifiers\obj\Debug\net8.0\W05.2.C06 Properties - access modifiers.AssemblyInfo.cs
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C06 Properties - access modifiers\obj\Debug\net8.0\W05.2.C06 Properties - access modifiers.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C06 Properties - access modifiers\obj\Debug\net8.0\W05.2.C06 Properties - access modifiers.sourcelink.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C06 Properties - access modifiers\obj\Debug\net8.0\W05.2.C06 Properties - access modifiers.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C06 Properties - access modifiers\obj\Debug\net8.0\refint\W05.2.C06 Properties - access modifiers.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C06 Properties - access modifiers\obj\Debug\net8.0\W05.2.C06 Properties - access modifiers.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C06 Properties - access modifiers\obj\Debug\net8.0\W05.2.C06 Properties - access modifiers.genruntimeconfig.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C06 Properties - access modifiers\obj\Debug\net8.0\ref\W05.2.C06 Properties - access modifiers.dll

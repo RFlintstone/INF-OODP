@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("W04.2.C06 Card deck with overloads")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a85afe0e37f7d9f5e8e49d4080e22acba560d79")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("W04.2.C06 Card deck with overloads")]
 [assembly: System.Reflection.AssemblyTitleAttribute("W04.2.C06 Card deck with overloads")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

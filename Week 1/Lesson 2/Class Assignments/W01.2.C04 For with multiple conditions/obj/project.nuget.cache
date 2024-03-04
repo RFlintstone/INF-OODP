@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "D+DSIneKbwjdbA2j1D1662jrUbwYIQmAVmXSL1zLOgkqIXUIp77td1a42Xh0IyhIRVLS4zkYk0LxWQwvx/g3Jw==",
+  "dgSpecHash": "3A8lZUuJqAMmkt61cMsU5gxZE7O0WSN/MFd2JLp4LqDneuNx6k82Pgjfe8CI6PQbbUI9Mar+gIPotQ8rU5hu1A==",
   "success": true,
   "projectFilePath": "C:\\Users\\rwfli\\Documents\\1. Studie\\INF\\INF-OODP\\Week 1\\Lesson 2\\Class Assignments\\W01.2.C04 For with multiple conditions\\W01.2.C04 For with multiple conditions.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

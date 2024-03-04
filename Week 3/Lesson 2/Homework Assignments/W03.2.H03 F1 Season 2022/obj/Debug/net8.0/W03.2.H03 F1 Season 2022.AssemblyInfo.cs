@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("W03.2.H03 F1 Season 2022")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d50a15554069c7ee83b78e8b973e45ca48fb4df4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("W03.2.H03 F1 Season 2022")]
 [assembly: System.Reflection.AssemblyTitleAttribute("W03.2.H03 F1 Season 2022")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

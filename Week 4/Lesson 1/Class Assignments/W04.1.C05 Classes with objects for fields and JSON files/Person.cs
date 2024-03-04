@@ -1,6 +1,13 @@
-﻿namespace W04._1.C05_Classes_with_objects_for_fields_and_JSON_files;
-
-public class Person
+﻿public class Person
 {
-    
+    public string Name;
+    public List<Car> OwnedCars;
+
+    public Person(string name)
+    {
+        Name = name;
+        OwnedCars = new List<Car>();
+    }
+
+    public void AquireCar(Car car) => OwnedCars.Add(car);
 }

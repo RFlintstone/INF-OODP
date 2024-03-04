@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "I/TWqsup0fgTo0W3xsOgJONx7e0Aq1vfOqGoBqzJxF61avgcoxFQjPnG2MFeghA3RaOrQPXH/c+JQrnuw6qViA==",
+  "dgSpecHash": "Hw4ZKy910puhVcw26cDdwCGnRnUCC3c4MsymT7tqMv7obSjCw45dOVv+qNq5evmzYlqodfXa14ddrAkqFp2+Pg==",
   "success": true,
   "projectFilePath": "C:\\Users\\rwfli\\Documents\\1. Studie\\INF\\INF-OODP\\Week 1\\Lesson 2\\Homework Assignments\\W01.2.H02 Origami Fortune Teller\\W01.2.H02 Origami Fortune Teller.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

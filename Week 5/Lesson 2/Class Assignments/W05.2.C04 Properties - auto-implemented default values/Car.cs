@@ -1,6 +1,11 @@
-﻿namespace W05._2.C04_Properties___auto_implemented_default_values;
-
-public class Car
+﻿public class Car
 {
-    
+    public string Make { get; set; } = "unknown"; 
+    public string Model { get; set; } = "unknown";
+    public int Year { get; set; }
+
+    public string Description
+    {
+        get { return $"{Year} {Make} {Model}"; }
+    }
 }

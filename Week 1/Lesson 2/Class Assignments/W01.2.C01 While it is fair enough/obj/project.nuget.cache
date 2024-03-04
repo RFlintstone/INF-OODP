@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "3O7oaoFp9WBFyq4kVXQmf/TBxm/K9bOBYFGYu10BYD5Et0ncZ6gPEs/F6t2eVGh/cxoPMU2bH3VIXxzcI65qsg==",
+  "dgSpecHash": "x6nG4TFsVaLv0/6U04HAbL5yj8YcbQ3dD7b2LcM9nu8cQb0JsF5c4S9o3yneSytuJp7cSfWxG70f0DFoV0ftUw==",
   "success": true,
   "projectFilePath": "C:\\Users\\rwfli\\Documents\\1. Studie\\INF\\INF-OODP\\Week 1\\Lesson 2\\Class Assignments\\W01.2.C01 While it is fair enough\\W01.2.C01 While it is fair enough.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

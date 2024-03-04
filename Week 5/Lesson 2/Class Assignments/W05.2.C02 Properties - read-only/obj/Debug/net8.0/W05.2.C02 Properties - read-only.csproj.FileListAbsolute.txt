@@ -1,0 +1,15 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C02 Properties - read-only\bin\Debug\net8.0\W05.2.C02 Properties - read-only.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C02 Properties - read-only\bin\Debug\net8.0\W05.2.C02 Properties - read-only.deps.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C02 Properties - read-only\bin\Debug\net8.0\W05.2.C02 Properties - read-only.runtimeconfig.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C02 Properties - read-only\bin\Debug\net8.0\W05.2.C02 Properties - read-only.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C02 Properties - read-only\bin\Debug\net8.0\W05.2.C02 Properties - read-only.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C02 Properties - read-only\obj\Debug\net8.0\W05.2.C02 Properties - read-only.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C02 Properties - read-only\obj\Debug\net8.0\W05.2.C02 Properties - read-only.AssemblyInfoInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C02 Properties - read-only\obj\Debug\net8.0\W05.2.C02 Properties - read-only.AssemblyInfo.cs
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C02 Properties - read-only\obj\Debug\net8.0\W05.2.C02 Properties - read-only.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C02 Properties - read-only\obj\Debug\net8.0\W05.2.C02 Properties - read-only.sourcelink.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C02 Properties - read-only\obj\Debug\net8.0\W05.2.C02 Properties - read-only.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C02 Properties - read-only\obj\Debug\net8.0\refint\W05.2.C02 Properties - read-only.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C02 Properties - read-only\obj\Debug\net8.0\W05.2.C02 Properties - read-only.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C02 Properties - read-only\obj\Debug\net8.0\W05.2.C02 Properties - read-only.genruntimeconfig.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C02 Properties - read-only\obj\Debug\net8.0\ref\W05.2.C02 Properties - read-only.dll

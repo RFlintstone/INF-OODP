@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "qrUhtFHEM716dwRvdRHHhBZBxbHsF6knBRRnZwMu6c/WUA2r1hrV1M1KcetoARX6ndW6309QFmEPP1zqVbFRbQ==",
+  "dgSpecHash": "VLp+Jy1wlaLE8uOE4bWW7XDAQ/NSkwaw+fMWN1ez/Ws8gxYFTz+wpGlnbfNbWt6eB2MdkPMQ0lhAgsn4WAmUIw==",
   "success": true,
   "projectFilePath": "C:\\Users\\rwfli\\Documents\\1. Studie\\INF\\INF-OODP\\Week 1\\Lesson 2\\Class Assignments\\W01.2.C08 Fixed dice\\W01.2.C08 Fixed dice.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

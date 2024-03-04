@@ -24,21 +24,6 @@
       <change beforePath="$PROJECT_DIR$/../Class Assignments/W04.1.C08 finally block/People.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Class Assignments/W04.1.C08 finally block/People.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Class Assignments/W04.1.C08 finally block/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Class Assignments/W04.1.C08 finally block/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Homework Assignments.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Homework Assignments.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W04.1.H02 Book collection-test/BookCollectionTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H02 Book collection-test/BookCollectionTest.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W04.1.H02 Book collection/Book.cs" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H02 Book collection/Book.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W04.1.H02 Book collection/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H02 Book collection/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W04.1.H02 Book collection/bin/Debug/net8.0/W04.1.H02 Book collection.dll" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H02 Book collection/bin/Debug/net8.0/W04.1.H02 Book collection.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W04.1.H02 Book collection/bin/Debug/net8.0/W04.1.H02 Book collection.exe" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H02 Book collection/bin/Debug/net8.0/W04.1.H02 Book collection.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W04.1.H02 Book collection/bin/Debug/net8.0/W04.1.H02 Book collection.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H02 Book collection/bin/Debug/net8.0/W04.1.H02 Book collection.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W04.1.H02 Book collection/books.json" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H02 Book collection/books.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W04.1.H02 Book collection/obj/Debug/net8.0/W04.1.H02 Book collection.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H02 Book collection/obj/Debug/net8.0/W04.1.H02 Book collection.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W04.1.H02 Book collection/obj/Debug/net8.0/W04.1.H02 Book collection.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H02 Book collection/obj/Debug/net8.0/W04.1.H02 Book collection.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W04.1.H02 Book collection/obj/Debug/net8.0/W04.1.H02 Book collection.dll" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H02 Book collection/obj/Debug/net8.0/W04.1.H02 Book collection.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W04.1.H02 Book collection/obj/Debug/net8.0/W04.1.H02 Book collection.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H02 Book collection/obj/Debug/net8.0/W04.1.H02 Book collection.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W04.1.H02 Book collection/obj/Debug/net8.0/W04.1.H02 Book collection.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H02 Book collection/obj/Debug/net8.0/W04.1.H02 Book collection.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W04.1.H02 Book collection/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H02 Book collection/obj/Debug/net8.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W04.1.H02 Book collection/obj/Debug/net8.0/ref/W04.1.H02 Book collection.dll" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H02 Book collection/obj/Debug/net8.0/ref/W04.1.H02 Book collection.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W04.1.H02 Book collection/obj/Debug/net8.0/refint/W04.1.H02 Book collection.dll" beforeDir="false" afterPath="$PROJECT_DIR$/W04.1.H02 Book collection/obj/Debug/net8.0/refint/W04.1.H02 Book collection.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +136,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708804896766</updated>
       <workItem from="1708804899143" duration="3318000" />
-      <workItem from="1708863428721" duration="5732000" />
+      <workItem from="1708863428721" duration="6501000" />
     </task>
     <servers />
   </component>

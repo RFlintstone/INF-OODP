@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "UaCzciJZWBUI0q7G/tRef+jjwLogLuCFLQDKFVEycZJQ8btsqZ/QpydG6/LgkeuycBXkxxi5HA1TxAM+MOJACg==",
+  "dgSpecHash": "kVCen2192jUNDTDo6YtrZIxw0aL5t15cV0hp62twFi60ClwIcMstrwW88S2ouRzsnmzRw5RuXUzDZs4SEJcQDg==",
   "success": true,
   "projectFilePath": "C:\\Users\\rwfli\\Documents\\1. Studie\\INF\\INF-OODP\\Week 1\\Lesson 2\\Class Assignments\\W01.2.C06 Task List - Add-Remove-Count\\W01.2.C06 Task List - Add-Remove-Count.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

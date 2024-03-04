@@ -1,6 +1,9 @@
-﻿namespace W04._1.C05_Classes_with_objects_for_fields_and_JSON_files;
-
-public class Car
+﻿public class Car
 {
-    
+    public string Brand;
+    public int Mileage;
+
+    public Car(string brand) => Brand = brand;
+
+    public void Drive() => Mileage++;
 }

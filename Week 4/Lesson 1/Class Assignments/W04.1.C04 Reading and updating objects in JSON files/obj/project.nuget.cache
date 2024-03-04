@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B1JqL1JlmMoqWLzsvthv0lFkcy1y4cCRZl+fxJdpVfNiNZ/gjZAwD2GptD2E7jgRy8zXeOfyvZy/Wo1P6VRvyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rwfli\\Documents\\1. Studie\\INF\\INF-OODP\\Week 4\\Lesson 1\\Class Assignments\\W04.1.C04 Reading and updating objects in JSON files\\W04.1.C04 Reading and updating objects in JSON files.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rwfli\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

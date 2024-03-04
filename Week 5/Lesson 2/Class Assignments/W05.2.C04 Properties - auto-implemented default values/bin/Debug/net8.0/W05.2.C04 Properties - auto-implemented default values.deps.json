@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "W05.2.C04 Properties - auto-implemented default values/1.0.0": {
+        "runtime": {
+          "W05.2.C04 Properties - auto-implemented default values.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "W05.2.C04 Properties - auto-implemented default values/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

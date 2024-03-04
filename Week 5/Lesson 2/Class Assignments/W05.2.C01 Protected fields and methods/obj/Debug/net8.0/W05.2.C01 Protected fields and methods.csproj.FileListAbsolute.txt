@@ -1,0 +1,15 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C01 Protected fields and methods\bin\Debug\net8.0\W05.2.C01 Protected fields and methods.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C01 Protected fields and methods\bin\Debug\net8.0\W05.2.C01 Protected fields and methods.deps.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C01 Protected fields and methods\bin\Debug\net8.0\W05.2.C01 Protected fields and methods.runtimeconfig.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C01 Protected fields and methods\bin\Debug\net8.0\W05.2.C01 Protected fields and methods.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C01 Protected fields and methods\bin\Debug\net8.0\W05.2.C01 Protected fields and methods.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C01 Protected fields and methods\obj\Debug\net8.0\W05.2.C01 Protected fields and methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C01 Protected fields and methods\obj\Debug\net8.0\W05.2.C01 Protected fields and methods.AssemblyInfoInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C01 Protected fields and methods\obj\Debug\net8.0\W05.2.C01 Protected fields and methods.AssemblyInfo.cs
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C01 Protected fields and methods\obj\Debug\net8.0\W05.2.C01 Protected fields and methods.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C01 Protected fields and methods\obj\Debug\net8.0\W05.2.C01 Protected fields and methods.sourcelink.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C01 Protected fields and methods\obj\Debug\net8.0\W05.2.C01 Protected fields and methods.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C01 Protected fields and methods\obj\Debug\net8.0\refint\W05.2.C01 Protected fields and methods.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C01 Protected fields and methods\obj\Debug\net8.0\W05.2.C01 Protected fields and methods.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C01 Protected fields and methods\obj\Debug\net8.0\W05.2.C01 Protected fields and methods.genruntimeconfig.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Class Assignments\W05.2.C01 Protected fields and methods\obj\Debug\net8.0\ref\W05.2.C01 Protected fields and methods.dll

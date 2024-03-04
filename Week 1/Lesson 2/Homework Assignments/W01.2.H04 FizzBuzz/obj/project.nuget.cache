@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "th3mCYSQLjW8RwFPLyixm/XgP7Fp87mNaj+gS3xQCN/dSUpo8Y55Jl1tkZ11+JSKlC7HxsEEAgL0/RxTuG1mPA==",
+  "dgSpecHash": "cUEB3ujsqZv7gnjOUK96O5CXtlmccu4xZQrStV68xYXMzPLHcrzqcMpN5gXkbbguWpdfVQDtlHFW0Z2jJbXC7A==",
   "success": true,
   "projectFilePath": "C:\\Users\\rwfli\\Documents\\1. Studie\\INF\\INF-OODP\\Week 1\\Lesson 2\\Homework Assignments\\W01.2.H04 FizzBuzz\\W01.2.H04 FizzBuzz.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

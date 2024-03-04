@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "0+TDcPHqsppOb1C9xf9wJg2TTu0ZpO+y3t1+3yHGfHj69njSRu4HpeHAdTsw03uRcyVJ13L7vM/QTNkiCFiBSg==",
+  "dgSpecHash": "JTeqSRJ4/ahxbSZEu6oAKiZuuhnBOje4I2jcR/EvABESthg7JrKrBSbKMO/etQDpBDod7fcuC6IGE3AOv4eeOw==",
   "success": true,
   "projectFilePath": "C:\\Users\\rwfli\\Documents\\1. Studie\\INF\\INF-OODP\\Week 1\\Lesson 2\\Class Assignments\\W01.2.C03 For the Birthday Relay\\W01.2.C03 For the Birthday Relay.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

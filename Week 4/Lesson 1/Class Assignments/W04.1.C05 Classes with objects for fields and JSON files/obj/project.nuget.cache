@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fa1hjgd+E7Vl9Okj6kCvIyAD/rohMWNwwdHNrSZ7qL6n8QXweoOXvLU67LK+JlZkxNFJn4XrF1c0IQhu19I8/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rwfli\\Documents\\1. Studie\\INF\\INF-OODP\\Week 4\\Lesson 1\\Class Assignments\\W04.1.C05 Classes with objects for fields and JSON files\\W04.1.C05 Classes with objects for fields and JSON files.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rwfli\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

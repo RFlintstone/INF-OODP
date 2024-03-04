@@ -1,4 +1,5 @@
 ﻿using System.Runtime.InteropServices;
+using System.Text.Json;
 using Newtonsoft.Json;
 
 class Program
@@ -35,7 +36,16 @@ class Program
                 // Console.WriteLine();
             }
         }
-        catch (Exception e)
+        catch (JsonReaderException e)
+        {
+            Console.WriteLine("Invalid JSON. " + e.Message);
+            // throw;
+        }
+        catch (FileNotFoundException e)
+        {
+            Console.WriteLine("Missing JSON file. " + e.Message);
+            // throw;
+        } catch (Exception e)
         {
             Console.WriteLine(e.Message);
             // throw;

@@ -1,6 +1,8 @@
-﻿namespace W05._2.C06_Properties___access_modifiers;
-
-public class VacationHouse
+﻿public class VacationHouse(double squareMeters, int numberOfRooms) : House(squareMeters, numberOfRooms, true, true)
 {
-    
+    public override void HomeImprovement()
+    {
+        base.HomeImprovement();
+        NumberOfRooms++;
+    }
 }
