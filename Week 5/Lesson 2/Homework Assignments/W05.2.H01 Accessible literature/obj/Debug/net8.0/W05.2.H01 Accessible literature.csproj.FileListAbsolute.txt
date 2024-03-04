@@ -1,0 +1,15 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Homework Assignments\W05.2.H01 Accessible literature\obj\Debug\net8.0\W05.2.H01 Accessible literature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Homework Assignments\W05.2.H01 Accessible literature\obj\Debug\net8.0\W05.2.H01 Accessible literature.AssemblyInfoInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Homework Assignments\W05.2.H01 Accessible literature\obj\Debug\net8.0\W05.2.H01 Accessible literature.AssemblyInfo.cs
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Homework Assignments\W05.2.H01 Accessible literature\obj\Debug\net8.0\W05.2.H01 Accessible literature.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Homework Assignments\W05.2.H01 Accessible literature\obj\Debug\net8.0\W05.2.H01 Accessible literature.sourcelink.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Homework Assignments\W05.2.H01 Accessible literature\bin\Debug\net8.0\W05.2.H01 Accessible literature.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Homework Assignments\W05.2.H01 Accessible literature\bin\Debug\net8.0\W05.2.H01 Accessible literature.deps.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Homework Assignments\W05.2.H01 Accessible literature\bin\Debug\net8.0\W05.2.H01 Accessible literature.runtimeconfig.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Homework Assignments\W05.2.H01 Accessible literature\bin\Debug\net8.0\W05.2.H01 Accessible literature.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Homework Assignments\W05.2.H01 Accessible literature\bin\Debug\net8.0\W05.2.H01 Accessible literature.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Homework Assignments\W05.2.H01 Accessible literature\obj\Debug\net8.0\W05.2.H01 Accessible literature.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Homework Assignments\W05.2.H01 Accessible literature\obj\Debug\net8.0\refint\W05.2.H01 Accessible literature.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Homework Assignments\W05.2.H01 Accessible literature\obj\Debug\net8.0\W05.2.H01 Accessible literature.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Homework Assignments\W05.2.H01 Accessible literature\obj\Debug\net8.0\W05.2.H01 Accessible literature.genruntimeconfig.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 5\Lesson 2\Homework Assignments\W05.2.H01 Accessible literature\obj\Debug\net8.0\ref\W05.2.H01 Accessible literature.dll
