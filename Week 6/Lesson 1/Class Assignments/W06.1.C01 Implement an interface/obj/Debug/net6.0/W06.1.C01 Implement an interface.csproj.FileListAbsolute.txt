@@ -1,0 +1,15 @@
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 6\Lesson 1\Class Assignments\W06.1.C01 Implement an interface\bin\Debug\net6.0\W06.1.C01 Implement an interface.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 6\Lesson 1\Class Assignments\W06.1.C01 Implement an interface\bin\Debug\net6.0\W06.1.C01 Implement an interface.deps.json
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 6\Lesson 1\Class Assignments\W06.1.C01 Implement an interface\bin\Debug\net6.0\W06.1.C01 Implement an interface.runtimeconfig.json
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 6\Lesson 1\Class Assignments\W06.1.C01 Implement an interface\bin\Debug\net6.0\W06.1.C01 Implement an interface.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 6\Lesson 1\Class Assignments\W06.1.C01 Implement an interface\bin\Debug\net6.0\W06.1.C01 Implement an interface.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 6\Lesson 1\Class Assignments\W06.1.C01 Implement an interface\obj\Debug\net6.0\W06.1.C01 Implement an interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 6\Lesson 1\Class Assignments\W06.1.C01 Implement an interface\obj\Debug\net6.0\W06.1.C01 Implement an interface.AssemblyInfoInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 6\Lesson 1\Class Assignments\W06.1.C01 Implement an interface\obj\Debug\net6.0\W06.1.C01 Implement an interface.AssemblyInfo.cs
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 6\Lesson 1\Class Assignments\W06.1.C01 Implement an interface\obj\Debug\net6.0\W06.1.C01 Implement an interface.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 6\Lesson 1\Class Assignments\W06.1.C01 Implement an interface\obj\Debug\net6.0\W06.1.C01 Implement an interface.sourcelink.json
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 6\Lesson 1\Class Assignments\W06.1.C01 Implement an interface\obj\Debug\net6.0\W06.1.C01 Implement an interface.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 6\Lesson 1\Class Assignments\W06.1.C01 Implement an interface\obj\Debug\net6.0\refint\W06.1.C01 Implement an interface.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 6\Lesson 1\Class Assignments\W06.1.C01 Implement an interface\obj\Debug\net6.0\W06.1.C01 Implement an interface.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 6\Lesson 1\Class Assignments\W06.1.C01 Implement an interface\obj\Debug\net6.0\W06.1.C01 Implement an interface.genruntimeconfig.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 6\Lesson 1\Class Assignments\W06.1.C01 Implement an interface\obj\Debug\net6.0\ref\W06.1.C01 Implement an interface.dll

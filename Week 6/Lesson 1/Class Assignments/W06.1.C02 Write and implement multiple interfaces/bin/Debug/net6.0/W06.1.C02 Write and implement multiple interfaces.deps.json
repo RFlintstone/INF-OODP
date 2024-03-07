@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "W06.1.C02 Write and implement multiple interfaces/1.0.0": {
+        "runtime": {
+          "W06.1.C02 Write and implement multiple interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "W06.1.C02 Write and implement multiple interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

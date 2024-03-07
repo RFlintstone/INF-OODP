@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kA4MnsBk1vA3ER5yuR1lTMZWaWhcL5doLP1kUjZJ6pjJXIo5y78fAA8ldnN6+ItIZz/JChHRHg59WmU6E2Wb6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ruben\\Documents\\2. Studie\\INF\\Jaar 1\\OODP OP34\\Week 6\\Lesson 1\\Class Assignments\\W06.1.C01 Implement an interface\\W06.1.C01 Implement an interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

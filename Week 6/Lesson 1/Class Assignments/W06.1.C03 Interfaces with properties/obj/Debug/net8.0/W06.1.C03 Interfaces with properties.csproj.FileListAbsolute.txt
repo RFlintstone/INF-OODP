@@ -1,0 +1,15 @@
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 6\Lesson 1\Class Assignments\W06.1.C03 Interfaces with properties\obj\Debug\net8.0\W06.1.C03 Interfaces with properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 6\Lesson 1\Class Assignments\W06.1.C03 Interfaces with properties\obj\Debug\net8.0\W06.1.C03 Interfaces with properties.AssemblyInfoInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 6\Lesson 1\Class Assignments\W06.1.C03 Interfaces with properties\obj\Debug\net8.0\W06.1.C03 Interfaces with properties.AssemblyInfo.cs
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 6\Lesson 1\Class Assignments\W06.1.C03 Interfaces with properties\obj\Debug\net8.0\W06.1.C03 Interfaces with properties.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 6\Lesson 1\Class Assignments\W06.1.C03 Interfaces with properties\obj\Debug\net8.0\W06.1.C03 Interfaces with properties.sourcelink.json
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 6\Lesson 1\Class Assignments\W06.1.C03 Interfaces with properties\bin\Debug\net8.0\W06.1.C03 Interfaces with properties.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 6\Lesson 1\Class Assignments\W06.1.C03 Interfaces with properties\bin\Debug\net8.0\W06.1.C03 Interfaces with properties.deps.json
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 6\Lesson 1\Class Assignments\W06.1.C03 Interfaces with properties\bin\Debug\net8.0\W06.1.C03 Interfaces with properties.runtimeconfig.json
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 6\Lesson 1\Class Assignments\W06.1.C03 Interfaces with properties\bin\Debug\net8.0\W06.1.C03 Interfaces with properties.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 6\Lesson 1\Class Assignments\W06.1.C03 Interfaces with properties\bin\Debug\net8.0\W06.1.C03 Interfaces with properties.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 6\Lesson 1\Class Assignments\W06.1.C03 Interfaces with properties\obj\Debug\net8.0\W06.1.C03 Interfaces with properties.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 6\Lesson 1\Class Assignments\W06.1.C03 Interfaces with properties\obj\Debug\net8.0\refint\W06.1.C03 Interfaces with properties.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 6\Lesson 1\Class Assignments\W06.1.C03 Interfaces with properties\obj\Debug\net8.0\W06.1.C03 Interfaces with properties.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 6\Lesson 1\Class Assignments\W06.1.C03 Interfaces with properties\obj\Debug\net8.0\W06.1.C03 Interfaces with properties.genruntimeconfig.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 6\Lesson 1\Class Assignments\W06.1.C03 Interfaces with properties\obj\Debug\net8.0\ref\W06.1.C03 Interfaces with properties.dll
