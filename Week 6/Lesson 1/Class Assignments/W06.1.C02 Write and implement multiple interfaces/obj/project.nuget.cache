@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ZteK2u4nhqW44WrnfEnWG310IaNk/JNLDKzZz5HHzIqSuvPWazueawRQh4und3AA9vuFMpIgA4WSvqERoTiHrA==",
+  "dgSpecHash": "qmhH9cHD2phWX656ETGVZRdRv0SmrAlom6zT6mDrueKpg1bojB7CfTuSDosvcEy39Rta3gGuH2NzMx3CxCulfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ruben\\Documents\\2. Studie\\INF\\Jaar 1\\OODP OP34\\Week 6\\Lesson 1\\Class Assignments\\W06.1.C02 Write and implement multiple interfaces\\W06.1.C02 Write and implement multiple interfaces.csproj",
+  "projectFilePath": "C:\\Users\\rwfli\\Documents\\1. Studie\\INF\\INF-OODP\\Week 6\\Lesson 1\\Class Assignments\\W06.1.C02 Write and implement multiple interfaces\\W06.1.C02 Write and implement multiple interfaces.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\rwfli\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ruben\\Documents\\2. Studie\\INF\\Jaar 1\\OODP OP34\\Week 6\\Lesson 1\\Class Assignments\\W06.1.C01 Implement an interface\\W06.1.C01 Implement an interface.csproj": {}
+    "C:\\Users\\rwfli\\Documents\\1. Studie\\INF\\INF-OODP\\Week 6\\Lesson 1\\Class Assignments\\W06.1.C01 Implement an interface\\W06.1.C01 Implement an interface.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ruben\\Documents\\2. Studie\\INF\\Jaar 1\\OODP OP34\\Week 6\\Lesson 1\\Class Assignments\\W06.1.C01 Implement an interface\\W06.1.C01 Implement an interface.csproj": {
+    "C:\\Users\\rwfli\\Documents\\1. Studie\\INF\\INF-OODP\\Week 6\\Lesson 1\\Class Assignments\\W06.1.C01 Implement an interface\\W06.1.C01 Implement an interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ruben\\Documents\\2. Studie\\INF\\Jaar 1\\OODP OP34\\Week 6\\Lesson 1\\Class Assignments\\W06.1.C01 Implement an interface\\W06.1.C01 Implement an interface.csproj",
+        "projectUniqueName": "C:\\Users\\rwfli\\Documents\\1. Studie\\INF\\INF-OODP\\Week 6\\Lesson 1\\Class Assignments\\W06.1.C01 Implement an interface\\W06.1.C01 Implement an interface.csproj",
         "projectName": "W06.1.C01 Implement an interface",
-        "projectPath": "C:\\Users\\Ruben\\Documents\\2. Studie\\INF\\Jaar 1\\OODP OP34\\Week 6\\Lesson 1\\Class Assignments\\W06.1.C01 Implement an interface\\W06.1.C01 Implement an interface.csproj",
-        "packagesPath": "C:\\Users\\Ruben\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ruben\\Documents\\2. Studie\\INF\\Jaar 1\\OODP OP34\\Week 6\\Lesson 1\\Class Assignments\\W06.1.C01 Implement an interface\\obj\\",
+        "projectPath": "C:\\Users\\rwfli\\Documents\\1. Studie\\INF\\INF-OODP\\Week 6\\Lesson 1\\Class Assignments\\W06.1.C01 Implement an interface\\W06.1.C01 Implement an interface.csproj",
+        "packagesPath": "C:\\Users\\rwfli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rwfli\\Documents\\1. Studie\\INF\\INF-OODP\\Week 6\\Lesson 1\\Class Assignments\\W06.1.C01 Implement an interface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ruben\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rwfli\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
