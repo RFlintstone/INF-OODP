@@ -15,5 +15,5 @@
     }
 
     public string AgeSuitability => $"{MinimumAge}-{MaximumAge}";
-    public override string ToString() => $"{Title} ({AgeSuitability})";
+    public override string ToString() => $"Movie {Title} (ages {AgeSuitability})";
 }
