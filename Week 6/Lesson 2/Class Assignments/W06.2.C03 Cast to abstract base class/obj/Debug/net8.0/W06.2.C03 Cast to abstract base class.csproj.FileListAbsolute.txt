@@ -1,0 +1,15 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 6\Lesson 2\Class Assignments\W06.2.C03 Cast to abstract base class\bin\Debug\net8.0\W06.2.C03 Cast to abstract base class.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 6\Lesson 2\Class Assignments\W06.2.C03 Cast to abstract base class\bin\Debug\net8.0\W06.2.C03 Cast to abstract base class.deps.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 6\Lesson 2\Class Assignments\W06.2.C03 Cast to abstract base class\bin\Debug\net8.0\W06.2.C03 Cast to abstract base class.runtimeconfig.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 6\Lesson 2\Class Assignments\W06.2.C03 Cast to abstract base class\bin\Debug\net8.0\W06.2.C03 Cast to abstract base class.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 6\Lesson 2\Class Assignments\W06.2.C03 Cast to abstract base class\bin\Debug\net8.0\W06.2.C03 Cast to abstract base class.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 6\Lesson 2\Class Assignments\W06.2.C03 Cast to abstract base class\obj\Debug\net8.0\W06.2.C03 Cast to abstract base class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 6\Lesson 2\Class Assignments\W06.2.C03 Cast to abstract base class\obj\Debug\net8.0\W06.2.C03 Cast to abstract base class.AssemblyInfoInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 6\Lesson 2\Class Assignments\W06.2.C03 Cast to abstract base class\obj\Debug\net8.0\W06.2.C03 Cast to abstract base class.AssemblyInfo.cs
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 6\Lesson 2\Class Assignments\W06.2.C03 Cast to abstract base class\obj\Debug\net8.0\W06.2.C03 Cast to abstract base class.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 6\Lesson 2\Class Assignments\W06.2.C03 Cast to abstract base class\obj\Debug\net8.0\W06.2.C03 Cast to abstract base class.sourcelink.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 6\Lesson 2\Class Assignments\W06.2.C03 Cast to abstract base class\obj\Debug\net8.0\W06.2.C03 Cast to abstract base class.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 6\Lesson 2\Class Assignments\W06.2.C03 Cast to abstract base class\obj\Debug\net8.0\refint\W06.2.C03 Cast to abstract base class.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 6\Lesson 2\Class Assignments\W06.2.C03 Cast to abstract base class\obj\Debug\net8.0\W06.2.C03 Cast to abstract base class.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 6\Lesson 2\Class Assignments\W06.2.C03 Cast to abstract base class\obj\Debug\net8.0\W06.2.C03 Cast to abstract base class.genruntimeconfig.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 6\Lesson 2\Class Assignments\W06.2.C03 Cast to abstract base class\obj\Debug\net8.0\ref\W06.2.C03 Cast to abstract base class.dll
