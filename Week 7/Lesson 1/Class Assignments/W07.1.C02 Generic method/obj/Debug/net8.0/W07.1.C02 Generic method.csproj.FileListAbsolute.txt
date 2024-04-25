@@ -1,0 +1,15 @@
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C02 Generic method\obj\Debug\net8.0\W07.1.C02 Generic method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C02 Generic method\obj\Debug\net8.0\W07.1.C02 Generic method.AssemblyInfoInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C02 Generic method\obj\Debug\net8.0\W07.1.C02 Generic method.AssemblyInfo.cs
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C02 Generic method\obj\Debug\net8.0\W07.1.C02 Generic method.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C02 Generic method\obj\Debug\net8.0\W07.1.C02 Generic method.sourcelink.json
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C02 Generic method\bin\Debug\net8.0\W07.1.C02 Generic method.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C02 Generic method\bin\Debug\net8.0\W07.1.C02 Generic method.deps.json
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C02 Generic method\bin\Debug\net8.0\W07.1.C02 Generic method.runtimeconfig.json
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C02 Generic method\bin\Debug\net8.0\W07.1.C02 Generic method.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C02 Generic method\bin\Debug\net8.0\W07.1.C02 Generic method.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C02 Generic method\obj\Debug\net8.0\W07.1.C02 Generic method.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C02 Generic method\obj\Debug\net8.0\refint\W07.1.C02 Generic method.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C02 Generic method\obj\Debug\net8.0\W07.1.C02 Generic method.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C02 Generic method\obj\Debug\net8.0\W07.1.C02 Generic method.genruntimeconfig.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C02 Generic method\obj\Debug\net8.0\ref\W07.1.C02 Generic method.dll

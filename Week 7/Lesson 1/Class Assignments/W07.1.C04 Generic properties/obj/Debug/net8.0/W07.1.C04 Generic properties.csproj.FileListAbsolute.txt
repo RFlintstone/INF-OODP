@@ -1,0 +1,15 @@
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C04 Generic properties\bin\Debug\net8.0\W07.1.C04 Generic properties.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C04 Generic properties\bin\Debug\net8.0\W07.1.C04 Generic properties.deps.json
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C04 Generic properties\bin\Debug\net8.0\W07.1.C04 Generic properties.runtimeconfig.json
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C04 Generic properties\bin\Debug\net8.0\W07.1.C04 Generic properties.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C04 Generic properties\bin\Debug\net8.0\W07.1.C04 Generic properties.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C04 Generic properties\obj\Debug\net8.0\W07.1.C04 Generic properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C04 Generic properties\obj\Debug\net8.0\W07.1.C04 Generic properties.AssemblyInfoInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C04 Generic properties\obj\Debug\net8.0\W07.1.C04 Generic properties.AssemblyInfo.cs
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C04 Generic properties\obj\Debug\net8.0\W07.1.C04 Generic properties.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C04 Generic properties\obj\Debug\net8.0\W07.1.C04 Generic properties.sourcelink.json
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C04 Generic properties\obj\Debug\net8.0\W07.1.C04 Generic properties.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C04 Generic properties\obj\Debug\net8.0\refint\W07.1.C04 Generic properties.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C04 Generic properties\obj\Debug\net8.0\W07.1.C04 Generic properties.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C04 Generic properties\obj\Debug\net8.0\W07.1.C04 Generic properties.genruntimeconfig.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C04 Generic properties\obj\Debug\net8.0\ref\W07.1.C04 Generic properties.dll

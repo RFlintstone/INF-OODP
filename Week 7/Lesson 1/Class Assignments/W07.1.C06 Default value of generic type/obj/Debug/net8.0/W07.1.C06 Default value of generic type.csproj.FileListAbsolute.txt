@@ -1,0 +1,15 @@
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C06 Default value of generic type\bin\Debug\net8.0\W07.1.C06 Default value of generic type.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C06 Default value of generic type\bin\Debug\net8.0\W07.1.C06 Default value of generic type.deps.json
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C06 Default value of generic type\bin\Debug\net8.0\W07.1.C06 Default value of generic type.runtimeconfig.json
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C06 Default value of generic type\bin\Debug\net8.0\W07.1.C06 Default value of generic type.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C06 Default value of generic type\bin\Debug\net8.0\W07.1.C06 Default value of generic type.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C06 Default value of generic type\obj\Debug\net8.0\W07.1.C06 Default value of generic type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C06 Default value of generic type\obj\Debug\net8.0\W07.1.C06 Default value of generic type.AssemblyInfoInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C06 Default value of generic type\obj\Debug\net8.0\W07.1.C06 Default value of generic type.AssemblyInfo.cs
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C06 Default value of generic type\obj\Debug\net8.0\W07.1.C06 Default value of generic type.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C06 Default value of generic type\obj\Debug\net8.0\W07.1.C06 Default value of generic type.sourcelink.json
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C06 Default value of generic type\obj\Debug\net8.0\W07.1.C06 Default value of generic type.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C06 Default value of generic type\obj\Debug\net8.0\refint\W07.1.C06 Default value of generic type.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C06 Default value of generic type\obj\Debug\net8.0\W07.1.C06 Default value of generic type.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C06 Default value of generic type\obj\Debug\net8.0\W07.1.C06 Default value of generic type.genruntimeconfig.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C06 Default value of generic type\obj\Debug\net8.0\ref\W07.1.C06 Default value of generic type.dll

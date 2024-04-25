@@ -1,6 +1,11 @@
-﻿namespace W07._1.C04_Generic_properties;
-
-public class KeyValuePair
+﻿public class KeyValuePair<T1, T2>
 {
+    public T1 Key { get; set; }
+    public T2 Value { get; set; }
     
+    public KeyValuePair(T1 key, T2 value)
+    {
+        Key = key;
+        Value = value;
+    }
 }

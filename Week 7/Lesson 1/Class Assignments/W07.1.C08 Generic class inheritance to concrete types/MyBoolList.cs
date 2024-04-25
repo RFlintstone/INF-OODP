@@ -1,6 +1,13 @@
-﻿namespace W07._1.C08_Generic_class_inheritance_to_concrete_types;
-
-public class MyBoolList
+﻿public class MyBoolList : MyGenericList<bool>
 {
-    
+    public MyBoolList(List<bool> elems) : base(elems) { }
+    public override bool Combine()
+    {
+        bool result = true;
+        foreach (var elem in Elems)
+        {
+            result &= elem;
+        }
+        return result;
+    }
 }

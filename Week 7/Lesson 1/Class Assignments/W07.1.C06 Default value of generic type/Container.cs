@@ -1,6 +1,14 @@
-﻿namespace W07._1.C06_Default_value_of_generic_type;
-
-public class Container
+﻿public class Container<T>
 {
+    public T Value { get; set; }
+
+    public Container(T value = default(T))
+    {
+        Value = value;
+    }
     
+    public void ResetValue()
+    {
+        Value = default(T);
+    }
 }

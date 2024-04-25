@@ -1,6 +1,13 @@
-﻿namespace W07._1.C08_Generic_class_inheritance_to_concrete_types;
-
-public class MyIntList
+﻿public class MyIntList : MyGenericList<int>
 {
-    
+    public MyIntList(List<int> elems) : base(elems) { }
+    public override int Combine()
+    {
+        int sum = 0;
+        foreach (var elem in Elems)
+        {
+            sum += elem;
+        }
+        return sum;
+    }
 }

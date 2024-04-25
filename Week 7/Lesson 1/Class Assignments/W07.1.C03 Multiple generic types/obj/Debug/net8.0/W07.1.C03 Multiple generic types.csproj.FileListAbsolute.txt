@@ -1,0 +1,15 @@
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C03 Multiple generic types\bin\Debug\net8.0\W07.1.C03 Multiple generic types.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C03 Multiple generic types\bin\Debug\net8.0\W07.1.C03 Multiple generic types.deps.json
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C03 Multiple generic types\bin\Debug\net8.0\W07.1.C03 Multiple generic types.runtimeconfig.json
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C03 Multiple generic types\bin\Debug\net8.0\W07.1.C03 Multiple generic types.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C03 Multiple generic types\bin\Debug\net8.0\W07.1.C03 Multiple generic types.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C03 Multiple generic types\obj\Debug\net8.0\W07.1.C03 Multiple generic types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C03 Multiple generic types\obj\Debug\net8.0\W07.1.C03 Multiple generic types.AssemblyInfoInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C03 Multiple generic types\obj\Debug\net8.0\W07.1.C03 Multiple generic types.AssemblyInfo.cs
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C03 Multiple generic types\obj\Debug\net8.0\W07.1.C03 Multiple generic types.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C03 Multiple generic types\obj\Debug\net8.0\W07.1.C03 Multiple generic types.sourcelink.json
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C03 Multiple generic types\obj\Debug\net8.0\W07.1.C03 Multiple generic types.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C03 Multiple generic types\obj\Debug\net8.0\refint\W07.1.C03 Multiple generic types.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C03 Multiple generic types\obj\Debug\net8.0\W07.1.C03 Multiple generic types.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C03 Multiple generic types\obj\Debug\net8.0\W07.1.C03 Multiple generic types.genruntimeconfig.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C03 Multiple generic types\obj\Debug\net8.0\ref\W07.1.C03 Multiple generic types.dll

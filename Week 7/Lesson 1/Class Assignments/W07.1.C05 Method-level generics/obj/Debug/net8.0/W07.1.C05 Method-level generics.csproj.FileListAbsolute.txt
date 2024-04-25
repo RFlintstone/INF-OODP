@@ -1,0 +1,22 @@
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C05 Method-level generics\obj\Debug\net8.0\W07.1.C05 Method-level generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C05 Method-level generics\obj\Debug\net8.0\W07.1.C05 Method-level generics.AssemblyInfoInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C05 Method-level generics\obj\Debug\net8.0\W07.1.C05 Method-level generics.AssemblyInfo.cs
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C05 Method-level generics\obj\Debug\net8.0\W07.1.C05 Method-level generics.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C05 Method-level generics\obj\Debug\net8.0\W07.1.C05 Method-level generics.sourcelink.json
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C05 Method-level generics\obj\Debug\net8.0\W07.1.C05 Method-level generics.csproj.AssemblyReference.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C05 Method-level generics\bin\Debug\net8.0\W07.1.C01 Lists were generic all along.deps.json
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C05 Method-level generics\bin\Debug\net8.0\W07.1.C01 Lists were generic all along.runtimeconfig.json
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C05 Method-level generics\bin\Debug\net8.0\W07.1.C01 Lists were generic all along.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C05 Method-level generics\bin\Debug\net8.0\W07.1.C05 Method-level generics.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C05 Method-level generics\bin\Debug\net8.0\W07.1.C05 Method-level generics.deps.json
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C05 Method-level generics\bin\Debug\net8.0\W07.1.C05 Method-level generics.runtimeconfig.json
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C05 Method-level generics\bin\Debug\net8.0\W07.1.C05 Method-level generics.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C05 Method-level generics\bin\Debug\net8.0\W07.1.C05 Method-level generics.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C05 Method-level generics\bin\Debug\net8.0\W07.1.C01 Lists were generic all along.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C05 Method-level generics\bin\Debug\net8.0\W07.1.C01 Lists were generic all along.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C05 Method-level generics\obj\Debug\net8.0\W07.1.C05 Method-level generics.csproj.CopyComplete
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C05 Method-level generics\obj\Debug\net8.0\W07.1.C05 Method-level generics.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C05 Method-level generics\obj\Debug\net8.0\refint\W07.1.C05 Method-level generics.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C05 Method-level generics\obj\Debug\net8.0\W07.1.C05 Method-level generics.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C05 Method-level generics\obj\Debug\net8.0\W07.1.C05 Method-level generics.genruntimeconfig.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C05 Method-level generics\obj\Debug\net8.0\ref\W07.1.C05 Method-level generics.dll

@@ -1,0 +1,15 @@
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C01 Lists were generic all along\bin\Debug\net8.0\W07.1.C01 Lists were generic all along.exe
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C01 Lists were generic all along\bin\Debug\net8.0\W07.1.C01 Lists were generic all along.deps.json
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C01 Lists were generic all along\bin\Debug\net8.0\W07.1.C01 Lists were generic all along.runtimeconfig.json
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C01 Lists were generic all along\bin\Debug\net8.0\W07.1.C01 Lists were generic all along.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C01 Lists were generic all along\bin\Debug\net8.0\W07.1.C01 Lists were generic all along.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C01 Lists were generic all along\obj\Debug\net8.0\W07.1.C01 Lists were generic all along.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C01 Lists were generic all along\obj\Debug\net8.0\W07.1.C01 Lists were generic all along.AssemblyInfoInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C01 Lists were generic all along\obj\Debug\net8.0\W07.1.C01 Lists were generic all along.AssemblyInfo.cs
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C01 Lists were generic all along\obj\Debug\net8.0\W07.1.C01 Lists were generic all along.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C01 Lists were generic all along\obj\Debug\net8.0\W07.1.C01 Lists were generic all along.sourcelink.json
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C01 Lists were generic all along\obj\Debug\net8.0\W07.1.C01 Lists were generic all along.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C01 Lists were generic all along\obj\Debug\net8.0\refint\W07.1.C01 Lists were generic all along.dll
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C01 Lists were generic all along\obj\Debug\net8.0\W07.1.C01 Lists were generic all along.pdb
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C01 Lists were generic all along\obj\Debug\net8.0\W07.1.C01 Lists were generic all along.genruntimeconfig.cache
+C:\Users\Ruben\Documents\2. Studie\INF\Jaar 1\OODP OP34\Week 7\Lesson 1\Class Assignments\W07.1.C01 Lists were generic all along\obj\Debug\net8.0\ref\W07.1.C01 Lists were generic all along.dll

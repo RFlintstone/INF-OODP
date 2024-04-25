@@ -1,6 +1,11 @@
-﻿namespace W07._1.C07_Generic_class_inheritance_to_additional_generic_types;
-
-public class Pair
+﻿public class Pair<T1, T2>
 {
-    
+    public T1 Fst { get; }
+    public T2 Snd { get; }
+
+    public Pair(T1 fst, T2 snd)
+    {
+        Fst = fst;
+        Snd = snd;
+    }
 }

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "W07.1.C01 Lists were generic all along/1.0.0": {
+        "runtime": {
+          "W07.1.C01 Lists were generic all along.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "W07.1.C01 Lists were generic all along/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

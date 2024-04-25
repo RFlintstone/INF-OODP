@@ -1,6 +1,11 @@
-﻿namespace W07._1.C02_Generic_method;
+﻿using System.Collections;
 
-public class RewardGenerator
+public static class RewardGenerator
 {
-    
+    private static Random random = new(0);
+
+    public static Object GetRandomElement(IList list)
+    {
+        return list[random.Next(0, list.Count)] ?? new List<IList>();
+    }
 }
