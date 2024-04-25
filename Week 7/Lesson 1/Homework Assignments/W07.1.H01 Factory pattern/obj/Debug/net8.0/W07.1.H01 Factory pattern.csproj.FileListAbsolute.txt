@@ -1,0 +1,15 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 7\Lesson 1\Homework Assignments\W07.1.H01 Factory pattern\bin\Debug\net8.0\W07.1.H01 Factory pattern.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 7\Lesson 1\Homework Assignments\W07.1.H01 Factory pattern\bin\Debug\net8.0\W07.1.H01 Factory pattern.deps.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 7\Lesson 1\Homework Assignments\W07.1.H01 Factory pattern\bin\Debug\net8.0\W07.1.H01 Factory pattern.runtimeconfig.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 7\Lesson 1\Homework Assignments\W07.1.H01 Factory pattern\bin\Debug\net8.0\W07.1.H01 Factory pattern.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 7\Lesson 1\Homework Assignments\W07.1.H01 Factory pattern\bin\Debug\net8.0\W07.1.H01 Factory pattern.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 7\Lesson 1\Homework Assignments\W07.1.H01 Factory pattern\obj\Debug\net8.0\W07.1.H01 Factory pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 7\Lesson 1\Homework Assignments\W07.1.H01 Factory pattern\obj\Debug\net8.0\W07.1.H01 Factory pattern.AssemblyInfoInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 7\Lesson 1\Homework Assignments\W07.1.H01 Factory pattern\obj\Debug\net8.0\W07.1.H01 Factory pattern.AssemblyInfo.cs
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 7\Lesson 1\Homework Assignments\W07.1.H01 Factory pattern\obj\Debug\net8.0\W07.1.H01 Factory pattern.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 7\Lesson 1\Homework Assignments\W07.1.H01 Factory pattern\obj\Debug\net8.0\W07.1.H01 Factory pattern.sourcelink.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 7\Lesson 1\Homework Assignments\W07.1.H01 Factory pattern\obj\Debug\net8.0\W07.1.H01 Factory pattern.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 7\Lesson 1\Homework Assignments\W07.1.H01 Factory pattern\obj\Debug\net8.0\refint\W07.1.H01 Factory pattern.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 7\Lesson 1\Homework Assignments\W07.1.H01 Factory pattern\obj\Debug\net8.0\W07.1.H01 Factory pattern.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 7\Lesson 1\Homework Assignments\W07.1.H01 Factory pattern\obj\Debug\net8.0\W07.1.H01 Factory pattern.genruntimeconfig.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 7\Lesson 1\Homework Assignments\W07.1.H01 Factory pattern\obj\Debug\net8.0\ref\W07.1.H01 Factory pattern.dll
