@@ -16,5 +16,5 @@
         if (MinimumAge > MaximumAge) (MinimumAge, MaximumAge) = (MaximumAge, MinimumAge);
     }
     
-    public override string ToString() => $"{Name} ({AgeSuitability})";
+    public override string ToString() => $"{Name} (ages {AgeSuitability})";
 }

@@ -3,7 +3,7 @@
     public string Publisher { get; }
     public int MinimumAge { get; }
     public int MaximumAge { get; }
-    public string AgeSuitability => $"ages {MinimumAge}-{MaximumAge}";
+    public string AgeSuitability => $"{MinimumAge}-{MaximumAge}";
 
     public BoardGame(string name, string publisher, int minimumAge, int maximumAge) : base(name, minimumAge, maximumAge)
     {
@@ -15,5 +15,5 @@
         if (MinimumAge > MaximumAge) (MinimumAge, MaximumAge) = (MaximumAge, MinimumAge);
     }
     
-    public override string ToString() => $"{Name} by {Publisher} ({AgeSuitability})";
+    public override string ToString() => $"{Name} by {Publisher} (ages {AgeSuitability})";
 }

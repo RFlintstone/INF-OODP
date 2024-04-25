@@ -1,0 +1,15 @@
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 6\Lesson 1\Homework Assignments\W06.1.H01 Wrap it up\bin\Debug\net8.0\W06.1.H01 Wrap it up.exe
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 6\Lesson 1\Homework Assignments\W06.1.H01 Wrap it up\bin\Debug\net8.0\W06.1.H01 Wrap it up.deps.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 6\Lesson 1\Homework Assignments\W06.1.H01 Wrap it up\bin\Debug\net8.0\W06.1.H01 Wrap it up.runtimeconfig.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 6\Lesson 1\Homework Assignments\W06.1.H01 Wrap it up\bin\Debug\net8.0\W06.1.H01 Wrap it up.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 6\Lesson 1\Homework Assignments\W06.1.H01 Wrap it up\bin\Debug\net8.0\W06.1.H01 Wrap it up.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 6\Lesson 1\Homework Assignments\W06.1.H01 Wrap it up\obj\Debug\net8.0\W06.1.H01 Wrap it up.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 6\Lesson 1\Homework Assignments\W06.1.H01 Wrap it up\obj\Debug\net8.0\W06.1.H01 Wrap it up.AssemblyInfoInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 6\Lesson 1\Homework Assignments\W06.1.H01 Wrap it up\obj\Debug\net8.0\W06.1.H01 Wrap it up.AssemblyInfo.cs
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 6\Lesson 1\Homework Assignments\W06.1.H01 Wrap it up\obj\Debug\net8.0\W06.1.H01 Wrap it up.csproj.CoreCompileInputs.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 6\Lesson 1\Homework Assignments\W06.1.H01 Wrap it up\obj\Debug\net8.0\W06.1.H01 Wrap it up.sourcelink.json
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 6\Lesson 1\Homework Assignments\W06.1.H01 Wrap it up\obj\Debug\net8.0\W06.1.H01 Wrap it up.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 6\Lesson 1\Homework Assignments\W06.1.H01 Wrap it up\obj\Debug\net8.0\refint\W06.1.H01 Wrap it up.dll
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 6\Lesson 1\Homework Assignments\W06.1.H01 Wrap it up\obj\Debug\net8.0\W06.1.H01 Wrap it up.pdb
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 6\Lesson 1\Homework Assignments\W06.1.H01 Wrap it up\obj\Debug\net8.0\W06.1.H01 Wrap it up.genruntimeconfig.cache
+C:\Users\rwfli\Documents\1. Studie\INF\INF-OODP\Week 6\Lesson 1\Homework Assignments\W06.1.H01 Wrap it up\obj\Debug\net8.0\ref\W06.1.H01 Wrap it up.dll
